@@ -4,8 +4,8 @@ layout: home
 author_profile: false
 ---------------------
 
-# I like connecting the dots.
+# Curious. Intense. Unconventional. Analytical.
 
-Sometimes the pieces that seem unrelated are the ones that tell the most interesting story.
+## A little chaotic—in a good way.
 
-I like pulling things apart, asking questions, following unexpected threads, and putting the pieces back together to understand the bigger picture.
+I tend to pull things apart, follow the questions, connect the unexpected pieces, and see where they lead.
