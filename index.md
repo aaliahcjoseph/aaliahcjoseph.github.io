@@ -4,7 +4,7 @@ author_profile: false
 title: false
 ---
 
-# Curious. Intense. Unconventional. Analytical.
+# Curious. Creative. Calculated.
 
 ## A little chaotic—in a good way.
 
