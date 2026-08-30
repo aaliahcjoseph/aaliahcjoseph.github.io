@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title:""
+title: ""
 ---
 
 # Curious. Intense. Unconventional. Analytical.
