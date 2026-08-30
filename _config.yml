@@ -21,7 +21,7 @@ title                    : "Aaliah Joseph"
 title_separator          : "-"
 subtitle                 : 
 name                     : "Aaliah Joseph"
-description              : "Connecting the dots, following the questions, and looking at things from a different angle."
+description              : "Curious. Creative. Calculated."
 url                      : "https://aaliahcjoseph.github.io"
 baseurl                  : ""
 repository               : 
@@ -116,8 +116,8 @@ analytics:
 author:
   name             : "Aaliah Joseph"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
-  location         : 
+  bio              : "I have a habit of asking one question and accidentally finding five more."
+  location         : "Somewhere in Canada"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
