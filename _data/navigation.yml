@@ -1,10 +1,10 @@
 main:
 
-* title: "Projects"
-  url: /projects/
+  - title: "Projects"
+    url: /projects/
 
-* title: "Side Quests"
-  url: /side-quests/
+  - title: "Side Quests"
+    url: /side-quests/
 
-* title: "About"
-  url: /about/
+  - title: "About"
+    url: /about/
