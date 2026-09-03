@@ -1,13 +1,13 @@
 ---
+
 layout: splash
 title: "Aaliah Joseph"
 permalink: /
 header:
 overlay_color: "#000"
 overlay_filter: "0.35"
-excerpt: >
-Curious. Creative. Calculated.<br> <span style="font-size:0.7em;">A little chaotic—in a good way.</span>
---------------------------------------------------------------------------------------------------------
+excerpt: "Curious. Creative. Calculated. A little chaotic—in a good way."
+-------------------------------------------------------------------------
 
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
 
