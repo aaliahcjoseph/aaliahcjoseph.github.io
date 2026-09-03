@@ -4,8 +4,8 @@ layout: splash
 title: "Aaliah Joseph"
 permalink: /
 header:
-overlay_color: "#000"
-overlay_filter: "0.35"
+  overlay_color: "#000"
+  overlay_filter: "0.35"
 excerpt: "Curious. Creative. Calculated. A little chaotic—in a good way."
 ---
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
