@@ -1,5 +1,4 @@
 ---
-
 layout: splash
 title: "Aaliah Joseph"
 permalink: /
@@ -8,6 +7,7 @@ header:
   overlay_filter: "0.35"
 excerpt: "Curious. Creative. Calculated. A little chaotic—in a good way."
 ---
+
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
 
   <p style="font-size: 1.35em; line-height: 1.7;">
@@ -15,31 +15,35 @@ excerpt: "Curious. Creative. Calculated. A little chaotic—in a good way."
   </p>
 
   <p style="font-size: 1.05em; line-height: 1.8;">
-    I tend to pull things apart, follow the questions,
-    connect the unexpected pieces, and see where they lead.
+    I pull things apart, follow the questions, connect the unexpected pieces,
+    and see where they lead.
   </p>
 
 </div>
 
 ---
 
-## A Few Things I've Been Building
+## Projects
 
 I like turning messy information into something people can actually use.
 
-### ✈️ WestJet Schedule Intelligence
+From data analysis and automation to interactive tools and visualizations, 
+my projects usually start with a problem, a question, or something that 
+doesn't quite make sense yet.
 
-Turning complex airline schedule data into something understandable, interactive, and useful.
 
 **[Explore Projects →](/projects/)**
 
 ---
 
-## Sometimes I Go Down Rabbit Holes
+## Side Quests
 
 Not everything needs to become a serious project.
 
-Some ideas start with *“I wonder if…”* and end with several hours of questionable decisions and surprisingly useful results.
+Some ideas start with *“I wonder if…”* and end with several hours of 
+questionable decisions and surprisingly useful results.
+
+That's where the side quests live.
 
 **[Explore the Side Quests →](/side-quests/)**
 
@@ -47,7 +51,9 @@ Some ideas start with *“I wonder if…”* and end with several hours of quest
 
 <div style="text-align: center; margin: 70px 0 30px;">
 
-**Currently curious about:**
-data · automation · visualization · systems · making complicated things less complicated
+**Currently curious about**
+
+data · automation · visualization · systems · aviation · colour · books · 
+making complicated things less complicated
 
 </div>
