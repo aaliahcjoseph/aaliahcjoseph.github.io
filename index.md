@@ -47,13 +47,6 @@ That's where the side quests live.
 
 **[Explore the Side Quests →](/side-quests/)**
 
----
 
-<div style="text-align: center; margin: 70px 0 30px;">
 
-**Currently curious about**
 
-data · automation · visualization · systems · aviation · colour · books · 
-making complicated things less complicated
-
-</div>
