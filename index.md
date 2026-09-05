@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Aaliah Joseph"
 permalink: /
 excerpt: "Curious. Creative. Calculated. A little chaotic—in a good way."
 ---
