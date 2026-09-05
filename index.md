@@ -67,9 +67,3 @@ permalink: /
   </section>
 
 </div>
-
-Not everything needs to become a serious project.
-
-Some ideas start with *“I wonder if…”* and end with several hours of questionable decisions and surprisingly useful results.
-
-**[Explore the Side Quests →](/side-quests/)**
