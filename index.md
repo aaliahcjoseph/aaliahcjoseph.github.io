@@ -26,9 +26,9 @@ permalink: /
 
 ---
 
-<div style="max-width: 1000px; margin: 0 auto; padding: 80px 25px 120px;">
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 25px 100px;">
 
-  <section style="min-height: 55vh; display: flex; flex-direction: column; justify-content: center;">
+  <section style="min-height: 65vh; display: flex; flex-direction: column; justify-content: center;">
 
     <h2 style="margin-bottom: 25px;">
       Projects
@@ -45,7 +45,7 @@ permalink: /
   </section>
 
 
-  <section style="min-height: 55vh; display: flex; flex-direction: column; justify-content: center;">
+  <section style="min-height: 65vh; display: flex; flex-direction: column; justify-content: center;">
 
     <h2 style="margin-bottom: 25px;">
       Side Quests
