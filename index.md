@@ -26,15 +26,47 @@ permalink: /
 
 ---
 
-## Projects
+<div style="max-width: 1000px; margin: 0 auto; padding: 80px 25px 120px;">
 
-I like turning messy information into something people can actually use.
+  <section style="min-height: 55vh; display: flex; flex-direction: column; justify-content: center;">
 
-**[Explore Projects →](/projects/)**
+    <h2 style="margin-bottom: 25px;">
+      Projects
+    </h2>
 
----
+    <p style="font-size: 1.1em; line-height: 1.8; max-width: 750px;">
+      I like turning messy information into something people can actually use.
+    </p>
 
-## Side Quests
+    <p style="margin-top: 30px;">
+      <a href="/projects/">Explore Projects →</a>
+    </p>
+
+  </section>
+
+
+  <section style="min-height: 55vh; display: flex; flex-direction: column; justify-content: center;">
+
+    <h2 style="margin-bottom: 25px;">
+      Side Quests
+    </h2>
+
+    <p style="font-size: 1.1em; line-height: 1.8; max-width: 750px;">
+      Not everything needs to become a serious project.
+    </p>
+
+    <p style="font-size: 1.05em; line-height: 1.8; max-width: 750px;">
+      Some ideas start with <em>“I wonder if…”</em> and end with several hours
+      of questionable decisions and surprisingly useful results.
+    </p>
+
+    <p style="margin-top: 30px;">
+      <a href="/side-quests/">Explore the Side Quests →</a>
+    </p>
+
+  </section>
+
+</div>
 
 Not everything needs to become a serious project.
 
