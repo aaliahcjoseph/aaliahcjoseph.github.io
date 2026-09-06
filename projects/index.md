@@ -2,7 +2,7 @@
 layout: single
 title: "Projects"
 permalink: /projects/
----------------------
+---
 
 I like taking messy problems, pulling them apart, and figuring out what makes them work.
 
