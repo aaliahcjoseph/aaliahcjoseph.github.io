@@ -31,9 +31,13 @@
 }
 
 .masthead .visible-links a:hover {
-  color: #9e0059;
+  color: #ffafcc;
+  text-decoration: none;
 }
 
+.masthead .visible-links a::before {
+  display: none;
+}
 
 /* ---------------------------------------------------------
    MOBILE HEADER
