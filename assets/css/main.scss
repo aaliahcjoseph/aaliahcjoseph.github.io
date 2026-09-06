@@ -48,6 +48,16 @@
    GLOBAL CONTENT CONTAINER
    ========================================================= */
 
+/* Override Minimal Mistakes' responsive page widths */
+.page {
+  float: none !important;
+  width: 100% !important;
+  max-width: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Our consistent page frame */
 .page__inner-wrap,
 .home-content {
   width: calc(100% - 6rem);
@@ -59,8 +69,8 @@
   box-sizing: border-box;
 }
 
+/* Mobile */
 @media (max-width: 768px) {
-  .masthead__inner-wrap,
   .page__inner-wrap,
   .home-content {
     width: calc(100% - 2.5rem);
