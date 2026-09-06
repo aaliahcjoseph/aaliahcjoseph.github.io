@@ -219,7 +219,7 @@
 
 .home-title {
   margin: 0 0 10px;
-  font-size: 3rem;
+  font-size: 48px !important;
   font-weight: 600;
   line-height: 1.2;
   white-space: nowrap;
@@ -264,6 +264,7 @@
 
 @media (max-width: 768px) {
   .home-title {
+    font-size: 36px !important;
     white-space: normal;
   }
 
