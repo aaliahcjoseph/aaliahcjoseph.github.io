@@ -115,7 +115,9 @@
 /* =========================================================
    PROJECT LIST
    ========================================================= */
-
+.page__content > hr {
+  margin: 2.5rem 0 1.5rem;
+}
 .project-entry {
   position: relative;
 
@@ -123,8 +125,8 @@
   grid-template-columns: 3rem 1fr;
   gap: 1.5rem;
 
-  margin: 2.5rem 0;
-  padding: 2rem;
+  margin: 1.75rem 0;
+  padding: 2.5rem;
 
   border-radius: 0.5rem;
 
