@@ -1,4 +1,5 @@
 ---
+
 layout: single
 title: "Projects"
 permalink: /projects/
@@ -12,8 +13,8 @@ These are the projects where curiosity meets analysis — building tools, explor
 
 ## Invoice Validation & Reconciliation Tool
 
-**Excel · Data Validation · Process Improvement · Reconciliation**
+> **Two systems can agree and still both be wrong.**
 
-An Excel-based validation tool that independently calculates expected invoice quantities from operational data, then reconciles those expectations against SACS and IFX.
+An independent validation tool for checking whether invoice quantities actually make sense — not just whether two systems agree.
 
-[View Project →](/projects/invoice-validation/)
+[Explore the project →](/projects/invoice-validation/)
