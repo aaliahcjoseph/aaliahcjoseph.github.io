@@ -5,21 +5,21 @@ permalink: /
 
 <div class="home-content">
 
-  <div style="text-align: center; padding: 90px 0 100px;">
+  <div class="home-hero">
 
-    <p style="font-size: 2.2em; font-weight: 600; margin: 0 0 10px;">
+    <p class="home-title">
       Curious. Creative. Calculated.
     </p>
 
-    <p style="font-size: 1.25em; font-style: italic; margin: 0 0 55px;">
+    <p class="home-subtitle">
       A little chaotic—in a good way.
     </p>
 
-    <p style="font-size: 1.35em; line-height: 1.7;">
+    <p class="home-lead">
       I build things because I want to understand things.
     </p>
 
-    <p style="font-size: 1.05em; line-height: 1.8;">
+    <p class="home-copy">
       I pull things apart, follow the questions,
       connect the unexpected pieces, and see where they lead.
     </p>
@@ -28,46 +28,38 @@ permalink: /
 
   <hr>
 
-  <div style="padding: 20px 0 100px;">
+  <section class="home-section">
 
-    <section style="min-height: 65vh; display: flex; flex-direction: column; justify-content: center;">
+    <h2>Projects</h2>
 
-      <h2 style="margin-bottom: 25px;">
-        Projects
-      </h2>
+    <p>
+      I like turning messy information into something people can actually use.
+    </p>
 
-      <p style="font-size: 1.1em; line-height: 1.8; max-width: 750px;">
-        I like turning messy information into something people can actually use.
-      </p>
+    <p class="home-link">
+      <a href="/projects/">Explore Projects →</a>
+    </p>
 
-      <p style="margin-top: 30px;">
-        <a href="/projects/">Explore Projects →</a>
-      </p>
-
-    </section>
+  </section>
 
 
-    <section style="min-height: 65vh; display: flex; flex-direction: column; justify-content: center;">
+  <section class="home-section">
 
-      <h2 style="margin-bottom: 25px;">
-        Side Quests
-      </h2>
+    <h2>Side Quests</h2>
 
-      <p style="font-size: 1.1em; line-height: 1.8; max-width: 750px;">
-        Not everything needs to become a serious project.
-      </p>
+    <p>
+      Not everything needs to become a serious project.
+    </p>
 
-      <p style="font-size: 1.05em; line-height: 1.8; max-width: 750px;">
-        Some ideas start with <em>“I wonder if…”</em> and end with several hours
-        of questionable decisions and surprisingly useful results.
-      </p>
+    <p>
+      Some ideas start with <em>“I wonder if…”</em> and end with several hours
+      of questionable decisions and surprisingly useful results.
+    </p>
 
-      <p style="margin-top: 30px;">
-        <a href="/side-quests/">Explore the Side Quests →</a>
-      </p>
+    <p class="home-link">
+      <a href="/side-quests/">Explore the Side Quests →</a>
+    </p>
 
-    </section>
-
-  </div>
+  </section>
 
 </div>
