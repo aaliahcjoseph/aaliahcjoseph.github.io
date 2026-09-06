@@ -98,7 +98,9 @@
 /* =========================================================
    PAGE TITLES
    ========================================================= */
-
+.page__inner-wrap {
+  padding-top: 2rem !important;
+}
 .page__title {
   font-size: 40px !important;
   font-weight: 700;
@@ -122,8 +124,8 @@
   position: relative;
 
   display: grid;
-  grid-template-columns: 3rem 1fr;
-  gap: 1.5rem;
+  grid-template-columns: 2.5rem 1fr;
+  gap: 1rem;
 
   margin: 1.75rem 0;
   padding: 2.5rem;
@@ -215,7 +217,7 @@
 .project-description {
   margin: 0;
 
-  color: #6c757d;
+  color: #555b61;
   line-height: 1.65;
 }
 
