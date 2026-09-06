@@ -72,9 +72,16 @@
    ========================================================= */
 
 .page__title {
-  font-size: 40px;
+  font-size: 40px !important;
   font-weight: 700;
   line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .page__title {
+    font-size: 34px !important;
+  }
 }
 
 /* =========================================================
