@@ -48,30 +48,48 @@
    GLOBAL CONTENT CONTAINER
    ========================================================= */
 
-/* Stop Minimal Mistakes from changing the page width */
+/* Set the actual page frame */
+#main {
+  width: calc(100% - 6rem) !important;
+  max-width: 1180px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Stop Minimal Mistakes from narrowing or floating pages */
 .page {
   float: none !important;
   width: 100% !important;
   max-width: none !important;
   margin: 0 !important;
-  padding: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
-/* Keep the same layout at every desktop/window size */
-.page__inner-wrap,
+.page__inner-wrap {
+  width: 100% !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Homepage uses the same outer frame */
 .home-content {
-  width: min(1180px, calc(100vw - 6rem)) !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding: 0 !important;
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   box-sizing: border-box;
 }
 
-/* Only reduce the outer breathing room on genuinely small screens */
+/* Mobile */
 @media (max-width: 768px) {
-  .page__inner-wrap,
-  .home-content {
-    width: calc(100vw - 2.5rem) !important;
+  #main {
+    width: calc(100% - 2.5rem) !important;
   }
 }
 
