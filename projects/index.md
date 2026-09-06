@@ -11,10 +11,29 @@ These are the projects where curiosity meets analysis — building tools, explor
 
 ---
 
-## Invoice Validation & Reconciliation Tool
+<a class="project-entry" href="/projects/invoice-validation/">
 
-> **Two systems can agree and still both be wrong.**
+  <div class="project-number">01</div>
 
-I created an independent validation tool to check whether invoice quantities actually make sense — not just whether two systems agree.
+  <div class="project-content">
 
-[Explore the project →](/projects/invoice-validation/)
+    <h2>Invoice Validation & Reconciliation Tool</h2>
+
+    <div class="project-skills">
+      <span>Excel</span>
+      <span>Data Validation</span>
+      <span>Process Improvement</span>
+      <span>Reconciliation</span>
+    </div>
+
+    <p class="project-hook">
+      <strong><em>Two systems can agree and still both be wrong.</em></strong>
+    </p>
+
+    <p class="project-description">
+      I created an independent validation tool to check whether invoice quantities actually make sense — not just whether two systems agree.
+    </p>
+
+  </div>
+
+</a>
