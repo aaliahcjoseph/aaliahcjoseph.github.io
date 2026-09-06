@@ -52,23 +52,23 @@
 }
 
 /* =========================================================
-   SITE-WIDE CONTENT WIDTH
+   GLOBAL CONTENT CONTAINER
    ========================================================= */
 
-.page {
+.page__inner-wrap,
+.home-content {
   width: 100%;
-}
-
-.page__inner-wrap {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 3rem;
   padding-right: 3rem;
+  box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
-  .page__inner-wrap {
+  .page__inner-wrap,
+  .home-content {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
   }
