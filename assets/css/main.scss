@@ -44,17 +44,9 @@
   display: none;
 }
 
-
 /* =========================================================
    GLOBAL CONTENT CONTAINER
    ========================================================= */
-
-.page {
-  width: 100%;
-  max-width: none;
-  padding-left: 0;
-  padding-right: 0;
-}
 
 .page__inner-wrap,
 .home-content {
@@ -74,9 +66,6 @@
     width: calc(100% - 2.5rem);
   }
 }
-
-
-
 
 /* =========================================================
    PROJECT LIST
