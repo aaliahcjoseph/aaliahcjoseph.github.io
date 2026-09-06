@@ -30,8 +30,9 @@
   letter-spacing: 0.04em;
 }
 
-.masthead .visible-links a:hover {
-  color: #ffafcc;
+.masthead .visible-links a:hover,
+.masthead .visible-links a:focus {
+  color: #ffafcc !important;
   text-decoration: none;
 }
 
