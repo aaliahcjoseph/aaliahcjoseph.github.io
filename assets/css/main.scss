@@ -1,0 +1,47 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* =========================================================
+   AALIAH JOSEPH — CUSTOM STYLES
+   ========================================================= */
+
+
+/* ---------------------------------------------------------
+   HEADER
+   --------------------------------------------------------- */
+
+.masthead__inner-wrap {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.masthead .site-title {
+  text-transform: uppercase;
+  font-size: 1.15em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.masthead .visible-links a {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.masthead .visible-links a:hover {
+  color: #9e0059;
+}
+
+
+/* ---------------------------------------------------------
+   MOBILE HEADER
+   --------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .masthead__inner-wrap {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+}
