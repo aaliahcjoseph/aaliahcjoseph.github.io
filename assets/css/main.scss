@@ -50,3 +50,155 @@
     padding-right: 1.25rem;
   }
 }
+
+/* =========================================================
+   SITE-WIDE CONTENT WIDTH
+   ========================================================= */
+
+.page {
+  width: 100%;
+}
+
+.page__inner-wrap {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+@media (max-width: 768px) {
+  .page__inner-wrap {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+}
+
+/* =========================================================
+   PROJECT LIST
+   ========================================================= */
+
+.project-entry {
+  position: relative;
+
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  gap: 1.5rem;
+
+  margin: 2.5rem 0;
+  padding: 2rem;
+
+  border-radius: 0.5rem;
+
+  transition:
+    background-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+
+/* Make the entire project entry clickable */
+
+.project-link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+
+/* Number */
+
+.project-number {
+  padding-top: 0.3rem;
+
+  color: #6c757d;
+
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+}
+
+
+/* Title */
+
+.project-entry h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  border-bottom: none;
+
+  font-size: 1.45rem;
+}
+
+.project-entry h2 a {
+  color: #343a40 !important;
+  text-decoration: none !important;
+}
+
+
+/* Skills */
+
+.project-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+
+  margin-bottom: 1.5rem;
+}
+
+.project-skills span {
+  padding: 0.25rem 0.65rem;
+
+  background: #f8f9fa;
+  border: 1px solid #ffc8dd;
+  border-radius: 999px;
+
+  color: #6c757d;
+
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+
+/* Hook */
+
+.project-hook {
+  margin: 0 0 0.75rem;
+
+  color: #343a40;
+
+  font-size: 1.05rem;
+}
+
+
+/* Description */
+
+.project-description {
+  margin: 0;
+
+  color: #6c757d;
+  line-height: 1.65;
+}
+
+
+/* Whole project hover */
+
+.project-entry:hover {
+  background: rgba(255, 175, 204, 0.18);
+  transform: translateY(-2px);
+}
+
+
+/* Mobile */
+
+@media (max-width: 600px) {
+  .project-entry {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+
+    padding: 1.5rem;
+  }
+
+  .project-number {
+    padding-top: 0;
+  }
+}
