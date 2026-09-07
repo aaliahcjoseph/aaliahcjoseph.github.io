@@ -49,6 +49,8 @@ Actual passenger counts are entered into the **COUNTS** sheet. Corresponding SAC
 
 The **REGULAR** and **SPML** sheets use the passenger counts and applicable menu specifications to calculate expected quantities for each charge.
 
+[REGULAR SCREENSHOT HERE]
+
 ### 03 — Apply reference logic
 
 The **LOOKUP** and **CODES** sheets support the validation process by mapping IFX codes to SACS codes, descriptions, and other reference information used in the calculations.
@@ -74,7 +76,7 @@ The **CALCULATION** sheet brings the information together and compares the expec
 <p>
   A variance of <strong>0</strong> indicates that the reported quantity agrees with the independently calculated expectation. Non-zero variances are flagged for review.
 </p>
-
+[CALCULATION SCREENSHOT HERE]
 ---
 
 # Workbook Structure
