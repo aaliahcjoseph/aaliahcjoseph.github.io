@@ -57,11 +57,23 @@ The **LOOKUP** and **CODES** sheets support the validation process by mapping IF
 
 The **CALCULATION** sheet brings the information together and compares the expected quantities against both SACS and IFX.
 
-**Expected vs. SACS**
+<div class="reconciliation-flow">
+  <div class="reconciliation-row">
+    <span class="reconciliation-source">Expected</span>
+    <span class="reconciliation-arrow">→</span>
+    <span class="reconciliation-target">SACS</span>
+  </div>
 
-**Expected vs. IFX**
+  <div class="reconciliation-row">
+    <span class="reconciliation-source">Expected</span>
+    <span class="reconciliation-arrow">→</span>
+    <span class="reconciliation-target">IFX</span>
+  </div>
+</div>
 
-A variance of **0** indicates that the reported quantity agrees with the independently calculated expectation. Non-zero variances are flagged for review.
+<p>
+  A variance of <strong>0</strong> indicates that the reported quantity agrees with the independently calculated expectation. Non-zero variances are flagged for review.
+</p>
 
 ---
 
