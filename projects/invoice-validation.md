@@ -1,7 +1,7 @@
 ---
 title: "Invoice Validation & Reconciliation Tool"
 layout: single
-permalink: /projects/invoice-validation/
+permalink: /projects/invoice-validation/ 
 classes: project-detail
 ---
 
