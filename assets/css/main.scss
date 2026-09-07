@@ -255,6 +255,33 @@
 .skill-pills--business span {
   background: rgba(165, 56, 96, 0.08);
 }
+/* Portfolio note */
+
+.portfolio-note {
+  margin-top: 2.5rem;
+  padding: 1.25rem 1.5rem;
+
+  background: #f8f9fa;
+  border-left: 3px solid #ffc8dd;
+
+  color: #555b61;
+}
+
+.portfolio-note strong {
+  display: block;
+  margin-bottom: 0.35rem;
+
+  color: #343a40;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.portfolio-note p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
 /* =========================================================
    PROJECT LIST
    ========================================================= */
