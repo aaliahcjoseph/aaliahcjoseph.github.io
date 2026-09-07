@@ -4,11 +4,12 @@ layout: single
 permalink: /projects/invoice-validation/
 ---
 
-<aside class="project-meta">
-
-**Excel · Data Validation · Process Improvement · Reconciliation**
-
-</aside>
+<div class="project-page-skills">
+  <span>Excel</span>
+  <span>Data Validation</span>
+  <span>Process Improvement</span>
+  <span>Reconciliation</span>
+</div>
 
 > **Two systems can agree and still both be wrong.**
 
