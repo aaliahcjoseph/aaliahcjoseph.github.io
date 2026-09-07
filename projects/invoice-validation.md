@@ -166,7 +166,7 @@ The tool shifted the validation process from broad manual checking towards excep
 </div>
 </div>
 ---
-
-# Portfolio Demonstration
-
-Customer identifiers and pricing have been modified for portfolio purposes. The underlying workflow and validation logic have been preserved.
+<div class="portfolio-note">
+<strong>Portfolio note</strong>
+<p>Customer identifiers and pricing have been modified for portfolio purposes. The underlying workflow and validation logic have been preserved.</p>
+</div>
