@@ -472,3 +472,34 @@
     padding-bottom: 70px;
   }
 }
+@media (max-width: 768px) {
+  .home-title {
+    font-size: 36px !important;
+    white-space: normal;
+  }
+
+  .home-hero {
+    padding-top: 60px;
+    padding-bottom: 70px;
+  }
+}
+
+
+/* Force validation example to stay compact */
+
+.project-detail .validation-example {
+  width: 520px !important;
+  max-width: 100% !important;
+  margin: 1.25rem 0 1.5rem !important;
+}
+
+.project-detail .validation-values {
+  display: grid !important;
+  grid-template-columns: 120px 120px 140px !important;
+  column-gap: 30px !important;
+  justify-content: start !important;
+}
+
+.project-detail .validation-result {
+  width: 100% !important;
+}
