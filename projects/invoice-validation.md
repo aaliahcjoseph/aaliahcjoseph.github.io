@@ -49,7 +49,14 @@ Actual passenger counts are entered into the **COUNTS** sheet. Corresponding SAC
 
 The **REGULAR** and **SPML** sheets use the passenger counts and applicable menu specifications to calculate expected quantities for each charge.
 
-[REGULAR SCREENSHOT HERE]
+<figure class="project-figure">
+  <img src="/assets/images/invoice-validation/regular-calculation.png"
+       alt="Excel worksheet showing expected quantity calculations based on passenger counts and menu specifications">
+
+  <figcaption>
+    <strong>Expected quantity calculation</strong> — Passenger counts and menu specifications are used to calculate expected charge quantities across operating dates.
+  </figcaption>
+</figure>
 
 ### 03 — Apply reference logic
 
