@@ -83,7 +83,15 @@ The **CALCULATION** sheet brings the information together and compares the expec
 <p>
   A variance of <strong>0</strong> indicates that the reported quantity agrees with the independently calculated expectation. Non-zero variances are flagged for review.
 </p>
-[CALCULATION SCREENSHOT HERE]
+<figure class="project-figure">
+  <img src="/assets/images/invoice-validation/calculation-reconciliation.png"
+       alt="Excel reconciliation worksheet comparing calculated quantities against SACS and IFX quantities">
+
+  <figcaption>
+    <strong>Reconciliation output</strong> — Calculated quantities are compared against SACS and IFX, with discrepancies flagged for review.
+  </figcaption>
+</figure>
+
 ---
 
 # Workbook Structure
