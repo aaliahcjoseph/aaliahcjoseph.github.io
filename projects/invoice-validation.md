@@ -141,9 +141,6 @@ The tool shifted the validation process from broad manual checking towards excep
 - provided an independent check of invoiced quantities
 
 ---
-
-# Key Skills Demonstrated
-
 <h1>Key Skills Demonstrated</h1>
 
 <div class="skills-group">
