@@ -170,7 +170,14 @@
 .project-detail table {
   width: 100%;
 }
+.project-detail table thead {
+  background: rgba(255, 200, 221, 0.35);
+}
 
+.project-detail table thead th {
+  color: #343a40;
+  border-bottom: 2px solid #ffafcc;
+}
 /* Reconciliation comparison */
 
 .reconciliation-flow {
