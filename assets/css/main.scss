@@ -164,6 +164,9 @@
 .project-detail .page__content > hr {
   margin: 2rem 0;
 }
+.project-detail .page__content > hr + h1 {
+  margin-top: 0;
+}
 /* =========================================================
    PROJECT LIST
    ========================================================= */
