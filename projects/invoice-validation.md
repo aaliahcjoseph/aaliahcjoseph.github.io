@@ -101,29 +101,15 @@ The validation tool goes one step further by establishing what the quantity shou
 
 > **Do the reported quantities make sense based on the underlying operational information?**
 
-<p>For example:</p>
+For example:
 
-<div class="validation-example">
-<div class="validation-values">
-<div class="validation-value">
-<span class="validation-label">SACS</span>
-<span class="validation-number">100</span>
-</div>
-<div class="validation-value">
-<span class="validation-label">IFX</span>
-<span class="validation-number">100</span>
-</div>
-<div class="validation-value validation-expected">
-<span class="validation-label">Expected</span>
-<span class="validation-number">110</span>
-</div>
-</div>
-<div class="validation-result">
-<span>SACS = IFX</span>
-<span class="validation-but">but</span>
-<span>SACS ≠ Expected</span>
-</div>
-</div>
+- **SACS:** 100
+- **IFX:** 100
+- **Expected:** 110
+
+<p class="validation-takeaway">
+  SACS = IFX, but SACS ≠ Expected
+</p>
 
 A direct comparison would show a match, when it is actually undercharged.
 
