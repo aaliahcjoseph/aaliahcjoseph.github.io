@@ -163,6 +163,7 @@ The tool shifted the validation process from broad manual checking towards excep
 <span>Data Quality Validation</span>
 <span>Reconciliation Logic</span>
 </div>
+</div>
 ---
 
 # Portfolio Demonstration
