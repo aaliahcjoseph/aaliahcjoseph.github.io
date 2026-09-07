@@ -132,14 +132,13 @@ The tool adds value by:
 
 # Impact
 
-The tool was designed to:
+The tool shifted the validation process from broad manual checking towards exception-based review:
 
-- reduce repetitive manual invoice validation
-- provide an independent check of invoiced quantities
-- identify discrepancies before invoices are finalized
-- standardize the reconciliation process
-- improve confidence in customer billing accuracy
-- direct attention towards records requiring review rather than manually checking every record
+- reduced repetitive manual invoice validation
+- focused attention on records requiring review
+- identified discrepancies before invoices were finalized
+- standardized the reconciliation process
+- provided an independent check of invoiced quantities
 
 ---
 
