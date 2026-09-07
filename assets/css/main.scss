@@ -501,3 +501,23 @@
   width: 100% !important;
   max-width: 100% !important;
 }
+
+/* Project screenshots */
+
+.project-figure {
+  margin: 2rem 0 2.5rem;
+}
+
+.project-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #e9ecef;
+}
+
+.project-figure figcaption {
+  margin-top: 0.75rem;
+  color: #6c757d;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
