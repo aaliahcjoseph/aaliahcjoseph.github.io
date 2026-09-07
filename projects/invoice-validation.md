@@ -144,21 +144,30 @@ The tool shifted the validation process from broad manual checking towards excep
 
 # Key Skills Demonstrated
 
-## Excel & Data Analysis
+<h1>Key Skills Demonstrated</h1>
 
-- Pivot tables
-- XLOOKUP
-- Conditional logic
-- Formula-driven calculations
+<div class="skills-group">
+<h2>Excel & Data Analysis</h2>
 
-## Business & Process Analysis
+<div class="skill-pills">
+<span>Pivot Tables</span>
+<span>XLOOKUP</span>
+<span>Conditional Logic</span>
+<span>Formula-Driven Calculations</span>
+</div>
+</div>
 
-- Requirements translation
-- Business-rule implementation
-- Process improvement
-- Data quality validation
-- Reconciliation logic
+<div class="skills-group">
+<h2>Business & Process Analysis</h2>
 
+<div class="skill-pills">
+<span>Requirements Translation</span>
+<span>Business-Rule Implementation</span>
+<span>Process Improvement</span>
+<span>Data Quality Validation</span>
+<span>Reconciliation Logic</span>
+</div>
+</div>
 ---
 
 # Portfolio Demonstration
