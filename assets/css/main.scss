@@ -206,69 +206,16 @@
   color: #343a40;
 }
 
-/* Independent calculation example */
+/* Validation takeaway */
 
-.validation-example {
-  width: 520px;
-  max-width: 100%;
+.validation-takeaway {
   margin: 1.25rem 0 1.5rem;
-}
+  padding-left: 1rem;
 
-.validation-values {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  column-gap: 2rem;
-}
-
-.validation-value {
-  display: flex;
-  flex-direction: column;
-}
-
-.validation-label {
-  margin-bottom: 0.25rem;
-
-  color: #6c757d;
-
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-
-.validation-number {
-  color: #343a40;
-
-  font-size: 1.35rem;
-  font-weight: 700;
-}
-
-.validation-expected .validation-label,
-.validation-expected .validation-number {
-  color: #a53860;
-}
-
-.validation-result {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-
-  width: 100%;
-  margin-top: 1rem;
-  padding-top: 0.75rem;
-
-  border-top: none;
+  border-left: 3px solid #ffafcc;
 
   color: #343a40;
-  font-size: 0.85rem;
   font-weight: 600;
-}
-
-.validation-but {
-  color: #6c757d;
-  font-size: 0.75rem;
-  font-style: italic;
-  font-weight: 400;
 }
 
 /* =========================================================
@@ -485,20 +432,6 @@
 }
 
 
-/* Compact validation example */
-
-.project-detail .validation-example {
-  width: 430px !important;
-  max-width: 100% !important;
-  margin: 1.25rem 0 1.5rem !important;
-}
-
-.project-detail .validation-values {
-  display: grid !important;
-  grid-template-columns: repeat(3, 1fr) !important;
-  gap: 1rem !important;
-  width: 100% !important;
-}
 
 .project-detail .validation-result {
   width: 100% !important;
