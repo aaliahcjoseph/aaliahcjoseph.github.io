@@ -168,7 +168,9 @@
   margin-top: 0;
 }
 .project-detail table {
-  width: 100%;
+  width: calc(100% - 2rem);
+  margin-left: 2rem;
+  margin-right: 0;
 }
 .project-detail table thead {
   background: rgba(255, 200, 221, 0.35);
