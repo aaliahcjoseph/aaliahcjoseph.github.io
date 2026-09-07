@@ -146,24 +146,22 @@ The tool shifted the validation process from broad manual checking towards excep
 <div class="skills-group">
 <h2>Excel & Data Analysis</h2>
 
-<div class="skill-pills">
+<div class="skill-pills skill-pills--technical">
 <span>Pivot Tables</span>
 <span>XLOOKUP</span>
 <span>Conditional Logic</span>
 <span>Formula-Driven Calculations</span>
 </div>
-</div>
 
 <div class="skills-group">
 <h2>Business & Process Analysis</h2>
 
-<div class="skill-pills">
+<div class="skill-pills skill-pills--business">
 <span>Requirements Translation</span>
 <span>Business-Rule Implementation</span>
 <span>Process Improvement</span>
 <span>Data Quality Validation</span>
 <span>Reconciliation Logic</span>
-</div>
 </div>
 ---
 
