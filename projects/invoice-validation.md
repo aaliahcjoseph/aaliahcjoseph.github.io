@@ -121,7 +121,12 @@ The validation tool identifies that both reported quantities differ from the ind
 
 Customer billing is ultimately based on the quantities reported in IFX. Validating those quantities against actual passenger counts and applicable menu specifications provides an additional level of assurance before invoicing.
 
-This tool helps identify both undercharges and overcharges, supporting more accurate customer billing while reducing the risk of discrepancies going undetected. It also standardizes a process that previously required repetitive manual comparison across multiple data sources.
+The tool adds value by:
+
+- identifying both undercharges and overcharges
+- supporting more accurate customer billing
+- reducing the risk of discrepancies going undetected
+- standardizing a process that previously required repetitive manual comparison across multiple data sources
 
 ---
 
