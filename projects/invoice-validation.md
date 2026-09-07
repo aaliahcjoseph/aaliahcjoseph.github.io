@@ -17,6 +17,8 @@ permalink: /projects/invoice-validation/
 
 I developed an Excel-based validation tool designed to improve the accuracy and efficiency of invoice preparation by independently calculating expected charge quantities from actual passenger counts and menu specifications, then reconciling those quantities against internal SACS data and customer-provided IFX data.
 
+---
+
 # The Business Problem
 
 Customer billing is based on the information reported through IFX. SACS and IFX can be compared directly to identify differences, but agreement between the two systems does not necessarily mean that the quantity is correct.
