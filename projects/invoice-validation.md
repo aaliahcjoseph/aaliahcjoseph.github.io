@@ -152,6 +152,7 @@ The tool shifted the validation process from broad manual checking towards excep
 <span>Conditional Logic</span>
 <span>Formula-Driven Calculations</span>
 </div>
+</div>
 
 <div class="skills-group">
 <h2>Business & Process Analysis</h2>
