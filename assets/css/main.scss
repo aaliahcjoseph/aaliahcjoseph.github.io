@@ -217,6 +217,38 @@
   color: #343a40;
   font-weight: 600;
 }
+/* Key skills */
+
+.skills-group {
+  margin-top: 2rem;
+}
+
+.skills-group + .skills-group {
+  margin-top: 2.5rem;
+}
+
+.skills-group h2 {
+  margin-bottom: 1rem;
+  border-bottom: none;
+}
+
+.skill-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.skill-pills span {
+  padding: 0.4rem 0.8rem;
+
+  background: #f8f9fa;
+  border-radius: 999px;
+
+  color: #555b61;
+
+  font-size: 0.8rem;
+  font-weight: 600;
+}
 
 /* =========================================================
    PROJECT LIST
