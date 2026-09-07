@@ -11,7 +11,9 @@ permalink: /projects/invoice-validation/
   <span>Reconciliation</span>
 </div>
 
-> **Two systems can agree and still both be wrong.**
+<p class="project-page-hook">
+  Two systems can agree and still both be wrong.
+</p>
 
 I developed an Excel-based validation tool designed to improve the accuracy and efficiency of invoice preparation by independently calculating expected charge quantities from actual passenger counts and menu specifications, then reconciling those quantities against internal SACS data and customer-provided IFX data.
 
