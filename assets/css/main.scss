@@ -161,7 +161,9 @@
 .project-page-skills ~ hr {
   margin: 2rem 0 2.25rem;
 }
-
+.project-detail .page__content > hr {
+  margin: 2rem 0;
+}
 /* =========================================================
    PROJECT LIST
    ========================================================= */
