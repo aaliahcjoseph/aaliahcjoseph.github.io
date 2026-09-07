@@ -205,6 +205,70 @@
 .reconciliation-target {
   color: #343a40;
 }
+
+/* Independent calculation example */
+
+.validation-example {
+  max-width: 650px;
+  margin: 1.5rem 0 2rem;
+  padding: 1.5rem 0;
+}
+
+.validation-values {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.validation-value {
+  display: flex;
+  flex-direction: column;
+}
+
+.validation-label {
+  margin-bottom: 0.25rem;
+
+  color: #6c757d;
+
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.validation-number {
+  color: #343a40;
+
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.validation-expected .validation-label,
+.validation-expected .validation-number {
+  color: #a53860;
+}
+
+.validation-result {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+
+  border-top: 1px solid #ffc8dd;
+
+  color: #343a40;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.validation-but {
+  color: #6c757d;
+  font-size: 0.75rem;
+  font-style: italic;
+  font-weight: 400;
+}
 /* =========================================================
    PROJECT LIST
    ========================================================= */
