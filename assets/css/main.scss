@@ -121,6 +121,29 @@
 }
 
 /* =========================================================
+   PROJECT PAGE
+   ========================================================= */
+
+.project-page-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 2rem;
+}
+
+.project-page-skills span {
+  padding: 0.25rem 0.65rem;
+
+  background: #f8f9fa;
+  border: 1px solid #ffc8dd;
+  border-radius: 999px;
+
+  color: #6c757d;
+
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+/* =========================================================
    PROJECT LIST
    ========================================================= */
 .page__content > hr {
