@@ -224,7 +224,7 @@
 }
 
 .skills-group + .skills-group {
-  margin-top: 2.5rem;
+  margin-top: 1.75rem;
 }
 
 .skills-group h2 {
@@ -249,7 +249,13 @@
   font-size: 0.8rem;
   font-weight: 600;
 }
+.skill-pills--technical span {
+  background: rgba(255, 200, 221, 0.28);
+}
 
+.skill-pills--business span {
+  background: rgba(165, 56, 96, 0.08);
+}
 /* =========================================================
    PROJECT LIST
    ========================================================= */
