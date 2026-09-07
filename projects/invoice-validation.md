@@ -34,13 +34,8 @@ The challenge was therefore to create a validation process that could establish 
 
 I developed a linked Excel validation tool that uses actual passenger counts and applicable menu specifications to calculate the expected quantity for each charge.
 
-The expected quantity is then compared against both SACS and IFX.
+The expected quantity is then compared against both SACS and IFX, creating a third point of reference rather than relying solely on whether the two source systems agree.
 
-<!-- Screenshot to be added here -->
-
-The expected quantity is independently calculated and then compared against both SACS and IFX.
-
-This creates a third point of reference rather than relying solely on whether the two source systems agree.
 
 ---
 
