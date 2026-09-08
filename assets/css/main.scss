@@ -522,3 +522,31 @@
   font-size: 0.8rem;
   line-height: 1.5;
 }
+/* =========================================================
+   ABOUT PAGE
+   ========================================================= */
+
+/* Opening statement */
+
+.about-page .about-opening {
+  max-width: 850px;
+  margin: 0 0 3rem;
+
+  color: #343a40;
+
+  font-size: 1.65rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.about-page .about-opening::before {
+  content: "";
+  display: block;
+
+  width: 3rem;
+  height: 3px;
+
+  margin-bottom: 1.25rem;
+
+  background: #ffafcc;
+}
