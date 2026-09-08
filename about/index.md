@@ -39,21 +39,16 @@ And when I learn something, I like sharing it. One of my favourite things is wat
 
 *There is, occasionally, life outside Excel.*
 
-I love reading and audiobooks, particularly rom-coms and cozy murder mysteries involving female sleuths, eccentric sidekicks, and preferably an animal with a questionable amount of common sense.
+I love reading and listening to audiobooks, particularly rom-coms and cozy murder mysteries involving female sleuths, eccentric sidekicks, and preferably an animal with a questionable amount of common sense. I also love making things. Paper flowers, Cricut projects, the occasional pipe-cleaner teddy bear—and especially coloring. 
 
-I also love making things. Paper flowers, Cricut projects, the occasional pipe-cleaner teddy bear—and especially coloring.
+My current obsession is Hachette Heroes color-by-number books, which I order from an online bookstore in France. Why am I ordering coloring books from France? Delivery and taxes are included, and thankfully you don't need to speak French to colour by number. Regular coloring gives me far too much freedom; apparently I need someone to tell me what colour something should be so I can proceed to disagree with the exact shade they chose. Coloring is one of the few things that can quiet my brain for hours. Give me a coloring book, an audiobook in the background, and far too many acrylic paint markers to choose from, and I'm happy.
 
-My current obsession is Hachette Heroes color-by-number books, which I order from an online bookstore in France. Why am I ordering coloring books from France? Delivery and taxes are included, and thankfully you don't need to speak French to colour by number.
+<p>
+  I'm a bit of a perfectionist about it too. The wrong shade will bother me. Cracked paint will bother me. A smudge will definitely bother me.
+  <span class="about-highlight">I'm slowly learning that not every imperfection needs to be fixed—which, admittedly, is still a work in progress.</span>
+</p>
 
-Regular coloring gives me far too much freedom; apparently I need someone to tell me what colour something *should* be so I can proceed to disagree with the exact shade they chose.
-
-Coloring is one of the few things that can quiet my brain for hours. Give me a coloring book, an audiobook in the background, and far too many acrylic paint markers to choose from, and I'm happy.
-
-I'm a bit of a perfectionist about it too. The wrong shade will bother me. Cracked paint will bother me. A smudge will *definitely* bother me. I'm slowly learning that not every imperfection needs to be fixed—which, admittedly, is still a work in progress.
-
-I learned to swim as an adult and fell in love with it. It's probably the only physical activity I'd happily do regularly—if swimming didn't come with the unfortunate requirement of doing my entire curly hair routine afterward so I can go into the office the next day.
-
-Given the choice between a pool and a beach, though, I'm choosing the beach—as long as we're talking warm Caribbean seawater and not a Canadian beach.
+I learned to swim as an adult and fell in love with it. It's probably the only physical activity I'd happily do regularly—if swimming didn't come with the unfortunate requirement of doing my entire curly hair routine afterward so I can go into the office the next day. Given the choice between a pool and a beach, though, I'm choosing the beach—as long as we're talking warm Caribbean seawater and not a Canadian beach.
 
 I learned to play tennis as a child and picked it back up again a few years ago. Apparently, my younger self retained more than I gave her credit for, because I still remembered what I was doing—and, as it turns out, I'm pretty good at it.
 
