@@ -92,7 +92,17 @@ I was born and raised in the Caribbean, so my love of colder weather might be a 
 But there are some things Canada hasn't managed to change about me. If I'm going to the beach, I want warm Caribbean water. Some things I'm simply not willing to compromise on.
 
 ---
+# Why This Exists
 
+I didn't create this portfolio just to collect finished projects in one place. I wanted somewhere I could show how I think.
+
+A résumé can tell you what I've done, but it doesn't always show the questions I asked, the rabbit holes I followed, the things I tried that didn't work, or the way a small problem sometimes turns into something much bigger because I wanted to understand it properly. Some of the things here started because of work. Others started because I noticed something, wondered about it, and couldn't quite leave the question alone.
+
+I've also learned that it's very easy for someone to decide what you can or can't do based on a job title, a list of qualifications, or a few lines on a résumé. I'd rather give people the opportunity to see what I can do before they make that decision.
+
+So this site is part portfolio, part playground, and probably part evidence of what happens when I have a question and enough time to follow it.
+
+---
 # Still Figuring It Out
 
 I'm still figuring myself out. I can trust my analysis and still second-guess myself. I can spend hours trying to understand something and then hesitate when it's time to actually do something with it. I can be completely consumed by an idea one day and distracted by something entirely different the next. And despite knowing that perfect isn't always necessary, I still have a hard time leaving something alone when I know it could be better.
