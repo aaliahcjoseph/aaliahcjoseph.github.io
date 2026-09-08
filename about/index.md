@@ -39,7 +39,7 @@ classes: about-page
   <span>I've never fit particularly neatly into one box.</span>
 </p>
 
-<p>I'm curious, introverted, easily distracted, stubborn when I want to figure something out, and almost always carrying around more ideas than I have time to finish. One question has a habit of becoming five, and a small curiosity can turn into a rabbit hole surprisingly quickly.</p>
+<p>I'm introverted, easily distracted, stubborn when I want to figure something out, and almost always carrying around more ideas than I have time to finish.</p>
 
 <p>I also don't necessarily fit the image I grew up associating with the corporate world. For a long time, I had a pretty narrow idea of what "professional" was supposed to look like—and I didn't always see myself in it. As a woman of color whose hair is naturally curly, even something as simple as wearing my hair the way it grows became part of figuring out where I fit. It took me a while to become comfortable with my curls instead of feeling like they were something I needed to manage or make fit. These days, I'm much more interested in being good at what I do than trying to make myself look like someone else's idea of what that should look like.</p>
 
