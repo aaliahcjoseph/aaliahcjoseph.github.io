@@ -95,25 +95,29 @@ But there are some things Canada hasn't managed to change about me. If I'm going
 
 # Still Figuring It Out
 
-I doubt myself more than I'd like.
+I'm still figuring myself out. I can trust my analysis and still second-guess myself. I can spend hours trying to understand something and then hesitate when it's time to actually do something with it. I can be completely consumed by an idea one day and distracted by something entirely different the next. And despite knowing that perfect isn't always necessary, I still have a hard time leaving something alone when I know it could be better.
 
-At the same time, I've learned that confidence and correctness aren't necessarily the same thing. I'm getting better at trusting the patterns I see, asking the extra question, and following the evidence even when I'm the only person looking in that direction.
+Some of that I'm learning to work with, some of it I'm trying to change, and some of it might just be part of who I am. What I am getting better at is trusting myself a little more. I've learned that confidence and correctness aren't the same thing, and being unsure doesn't necessarily mean I'm wrong. I'm learning to trust the patterns I see, ask the extra question, and follow the evidence—even when I'm the only person looking in that direction.
 
-I'm still learning how to work with a brain that can be intensely interested in something one minute and distracted by something completely different the next. I start things I don't always finish. I research things to death and then occasionally become afraid to actually do them. I want things to be perfect and am slowly learning when to let that go.
+I don't have all of it figured out yet, and I don't think I ever will. But I don't want to lose the part of me that keeps wondering, asking questions, and wanting to figure things out.
 
-But I don't think I want to lose the part of me that keeps wondering.
+If I had to narrow down the things I want to hold onto along the way, I'd probably choose three:
 
 <div class="about-values">
 
-<p class="values-intro">If I had to narrow it down, I'd probably choose three things:</p>
+  <h2>Honesty. Curiosity. Willingness.</h2>
 
-<h2>Honesty. Curiosity. Willingness.</h2>
+  <div class="value-item">
+    <p><strong>Honesty</strong> to be realistic about what I know, what I don't, and who I am—even when the answer isn't particularly polished.</p>
+  </div>
 
-<p><strong>Honesty</strong> to be realistic about what I know, what I don't, and who I am—even when the answer isn't particularly polished.</p>
+  <div class="value-item">
+    <p><strong>Curiosity</strong> to ask the extra question, follow the pattern, and wonder what happens if I look at something a little differently.</p>
+  </div>
 
-<p><strong>Curiosity</strong> to ask the extra question, follow the pattern, and wonder what happens if I look at something a little differently.</p>
-
-<p><strong>Willingness</strong> to try even when I'm unsure. To learn. To be wrong. To try again. And occasionally to follow a questionable idea just to see where it goes.</p>
+  <div class="value-item">
+    <p><strong>Willingness</strong> to try even when I'm unsure—to learn, to be wrong, to try again, and occasionally to follow a questionable idea just to see where it goes.</p>
+  </div>
 
 </div>
 
