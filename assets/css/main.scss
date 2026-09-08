@@ -575,3 +575,11 @@
   font-size: 1.2rem;
   line-height: 1.6;
 }
+
+.about-page .about-highlight {
+  background: rgba(255, 200, 221, 0.35);
+  padding: 0.08em 0.2em;
+
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
