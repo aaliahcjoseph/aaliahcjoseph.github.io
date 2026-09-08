@@ -118,7 +118,17 @@
     font-size: 34px !important;
   }
 }
+.page__title::after {
+  content: "";
+  display: block;
 
+  width: 5rem;
+  height: 3px;
+
+  margin-top: 1rem;
+
+  background: #ffafcc;
+}
 /* =========================================================
    PROJECT PAGE
    ========================================================= */
@@ -525,14 +535,7 @@
 /* =========================================================
    ABOUT PAGE
    ========================================================= */
-.about-page .about-opening::before {
-  content: "";
-  display: block;
-  width: 3rem;
-  height: 3px;
-  margin-bottom: 1.25rem;
-  background: #ffafcc;
-}
+
 
 /* Space below masthead */
 
