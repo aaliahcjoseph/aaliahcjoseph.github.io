@@ -582,3 +582,14 @@
   padding: 0.02em 0.16em;
   background: rgba(255, 200, 221, 0.35);
 }
+
+.about-page .value-item {
+  margin: 1.25rem 0;
+  padding: 1.25rem 1.5rem;
+  background: rgba(255, 200, 221, 0.18);
+  border-left: 3px solid #ffafcc;
+}
+
+.about-page .value-item p {
+  margin: 0;
+}
