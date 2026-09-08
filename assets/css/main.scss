@@ -556,9 +556,10 @@
 }
 
 .about-page .about-opening span {
-  background: linear-gradient(
-    transparent 55%,
-    rgba(255, 175, 204, 0.45) 55%
-  );
-}
+  padding: 0.08em 0.2em;
 
+  background: rgba(255, 200, 221, 0.35);
+
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
