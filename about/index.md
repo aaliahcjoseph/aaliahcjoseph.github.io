@@ -73,19 +73,13 @@ And I'm still waiting for Apple to make a pink iPhone Pro.
 
 ---
 
-# Dogs, Giraffes & Other Important Things
+# Dogs, Dolphins & Other Important Things
 
-I love dogs—all breeds, sizes and colours.
+I love dogs—all breeds, sizes and colours. No offence to the cat lovers; I'm just not a cat person. As it turns out, I learned this year that I'm also allergic to cats, so apparently my immune system has taken a side. Thankfully, I'm not allergic to dogs—although, given the choice, I'd probably take the hives for the dog any day.
 
-No offence to the cat lovers; I'm just not a cat person. As it turns out, I learned this year that I'm also allergic to **cats**, so apparently my immune system has taken a side. Thankfully, I'm not allergic to dogs—although, given the choice, I'd probably take the hives for the dog anyway.
+I grew up with dogs and had a habit of bringing stray dogs home, even though my grandparents weren't always thrilled about my latest arrival. Fortunately for me, they also found it pretty hard to say no to me. Unfortunately, I don't have a dog of my own at the moment, so volunteering with animals has also been a way for me to keep them in my life.
 
-I grew up with dogs and had a habit of bringing **stray dogs** home, even though my grandparents weren't always thrilled about my latest arrival. Fortunately for me, they also found it pretty hard to say no to me.
-
-I don't have a dog of my own at the moment, so volunteering with animals has also been a way for me to keep them in my life.
-
-Honestly, I probably like animals more than people.
-
-Some of my favourite experiences have involved animals too: feeding a giraffe, and—on my birthday trip to Curaçao—feeding a flamingo and meeting a dolphin.
+Honestly, I probably like animals more than people. Some of my favourite experiences have involved animals too: feeding a giraffe on my birthday in 2023, and—on another birthday trip to Curaçao—feeding a flamingo and finally getting to meet a dolphin after wanting to for years. His name was Romeo.
 
 Animals also have a particular talent for making me laugh, especially when they're doing something completely ridiculous.
 
