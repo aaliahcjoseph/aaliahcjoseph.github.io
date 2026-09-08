@@ -51,8 +51,6 @@ Coloring is one of the few things that can quiet my brain for hours. Give me a c
 
 I'm a bit of a perfectionist about it too. The wrong shade will bother me. Cracked paint will bother me. A smudge will *definitely* bother me. I'm slowly learning that not every imperfection needs to be fixed—which, admittedly, is still a work in progress.
 
-I'm also a fan of simulation games. Combat is not my strength, and racing brings out a level of competitiveness that is probably best avoided.
-
 I learned to swim as an adult and fell in love with it. It's probably the only physical activity I'd happily do regularly—if swimming didn't come with the unfortunate requirement of doing my entire curly hair routine afterward so I can go into the office the next day.
 
 Given the choice between a pool and a beach, though, I'm choosing the beach—as long as we're talking warm Caribbean seawater and not a Canadian beach.
