@@ -44,8 +44,11 @@ I love reading and listening to audiobooks, particularly rom-coms and cozy murde
 My current obsession is Hachette Heroes color-by-number books, which I order from an online bookstore in France. Why am I ordering coloring books from France? Delivery and taxes are included, and thankfully you don't need to speak French to colour by number. Regular coloring gives me far too much freedom; apparently I need someone to tell me what colour something should be so I can proceed to disagree with the exact shade they chose. Coloring is one of the few things that can quiet my brain for hours. Give me a coloring book, an audiobook in the background, and far too many acrylic paint markers to choose from, and I'm happy.
 
 <p>
-  I'm a bit of a perfectionist about it too. The wrong shade will bother me. Cracked paint will bother me. A smudge will definitely bother me.
-  <span class="about-highlight">I'm slowly learning that not every imperfection needs to be fixed—which, admittedly, is still a work in progress.</span>
+  I'm a bit of a perfectionist about it too. The wrong shade will bother me. Cracked paint will bother me. A smudge will <em>definitely</em> bother me.
+</p>
+
+<p class="about-statement">
+  I'm slowly learning that not every imperfection needs to be fixed—which, admittedly, is still a work in progress.
 </p>
 
 I learned to swim as an adult and fell in love with it. It's probably the only physical activity I'd happily do regularly—if swimming didn't come with the unfortunate requirement of doing my entire curly hair routine afterward so I can go into the office the next day. Given the choice between a pool and a beach, though, I'm choosing the beach—as long as we're talking warm Caribbean seawater and not a Canadian beach.
