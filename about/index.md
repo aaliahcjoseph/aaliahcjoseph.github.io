@@ -87,13 +87,9 @@ Animals also have a particular talent for making me laugh, especially when they'
 
 # A Caribbean Girl Who Likes the Cold
 
-I was born and raised in the Caribbean, which makes my love of colder weather slightly questionable.
+I was born and raised in the Caribbean, so my love of colder weather might be a little unexpected. My favourite season is fall—I love the cooler temperatures and watching the trees change colour. And even after living in Canada for a while, fresh snow still looks a little magical to me.
 
-Fall is my favourite season. I love watching the trees change colour, and fresh snow still looks a little magical to me.
-
-Apparently my love of the cold has boundaries, though.
-
-**The beach is one of them.**
+But there are some things Canada hasn't managed to change about me. If I'm going to the beach, I want warm Caribbean water. Some things I'm simply not willing to compromise on.
 
 ---
 
