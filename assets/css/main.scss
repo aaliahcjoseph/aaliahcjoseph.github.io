@@ -563,3 +563,15 @@
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
+
+.about-page .about-statement {
+  max-width: 800px;
+  margin: 4rem 0;
+  padding: 0.75rem 0 0.75rem 1.5rem;
+
+  border-left: 3px solid #ffafcc;
+
+  color: #343a40;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
