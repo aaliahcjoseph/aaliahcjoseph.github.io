@@ -20,10 +20,10 @@ classes: about-page
 </div>
 
 <p class="about-statement">
-  I notice patterns. But more than that, I notice when something <strong>doesn't fit the pattern.</strong>
+  I notice patterns. But more than that, I notice when something doesn't fit the pattern.
 </p>
 
-Give me fragments of information and I want to figure out how they connect. It's probably why I can happily spend hours solving an **80×80 black-and-white nonogram**, why I remember the one flight that behaves differently from all the others, and why seemingly innocent questions have a tendency to become full-blown investigations.
+Give me fragments of information and I want to figure out how they connect. It's probably why I can happily spend hours solving an 80×80 black-and-white nonogram, why I remember the one flight that behaves differently from all the others, and why seemingly innocent questions have a tendency to become full-blown investigations.
 
 That same curiosity follows me into my work.
 
