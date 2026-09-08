@@ -7,7 +7,9 @@ classes: about-page
 
 <div class="about-intro">
 
-<p class="about-opening">I've never fit particularly neatly into one box.</p>
+<p class="about-opening">
+  <span>I've never fit particularly neatly into one box.</span>
+</p>
 
 <p>I'm curious, introverted, easily distracted, stubborn when I want to figure something out, and almost always carrying around more ideas than I have time to finish. One question has a habit of becoming five, and a small curiosity can turn into a rabbit hole surprisingly quickly.</p>
 
