@@ -544,9 +544,8 @@
   line-height: 1.4;
 }
 
-
 .about-page .page__title {
-  display: inline-block;
-  padding: 0.45rem 0.8rem;
-  border: 2px solid #ffafcc;
+  display: inline-block !important;
+  padding: 0.45rem 0.8rem !important;
+  border: 2px solid #ffafcc !important;
 }
