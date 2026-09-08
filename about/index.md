@@ -92,15 +92,28 @@ I was born and raised in the Caribbean, so my love of colder weather might be a 
 But there are some things Canada hasn't managed to change about me. If I'm going to the beach, I want warm Caribbean water. Some things I'm simply not willing to compromise on.
 
 ---
-# Why This Exists
+<h1>Why This Exists</h1>
 
-I didn't create this portfolio just to collect finished projects in one place. I wanted somewhere I could show how I think.
+<p>
+  I didn't create this portfolio just to collect finished projects in one place.
+  <span class="portfolio-highlight">I wanted somewhere I could show how I think.</span>
+</p>
 
-A résumé can tell you what I've done, but it doesn't always show the questions I asked, the rabbit holes I followed, the things I tried that didn't work, or the way a small problem sometimes turns into something much bigger because I wanted to understand it properly. Some of the things here started because of work. Others started because I noticed something, wondered about it, and couldn't quite leave the question alone.
+<p>
+  A résumé can tell you what I've done, but it doesn't always show the questions I asked, the rabbit holes I followed, the things I tried that didn't work, or the way a small problem sometimes turns into something much bigger because I wanted to understand it properly. Some of the things here started because of work. Others started because I noticed something, wondered about it, and couldn't quite leave the question alone.
+</p>
 
-I've also learned that it's very easy for someone to decide what you can or can't do based on a job title, a list of qualifications, or a few lines on a résumé. I'd rather give people the opportunity to see what I can do before they make that decision.
+<p>
+  I've also learned that it's very easy for someone to decide what you can or can't do based on a job title, a list of qualifications, or a few lines on a résumé.
+</p>
 
-So this site is part portfolio, part playground, and probably part evidence of what happens when I have a question and enough time to follow it.
+<p class="about-statement">
+  I'd rather let people see what I can do before they make that decision.
+</p>
+
+<p>
+  So this site is part portfolio, part playground, and probably part evidence of what happens when a question catches my attention and I decide to follow it.
+</p>
 
 ---
 # Still Figuring It Out
