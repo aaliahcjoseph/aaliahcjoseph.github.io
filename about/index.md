@@ -57,11 +57,12 @@ I learned to play tennis as a child and picked it back up again a few years ago.
 
 ---
 
-# There Is a Lot of Pink
+<h1 class="pink-section-title">
+  There Is a Lot of <span>Pink</span>
+</h1>
 
 <p class="pink-opening">
-  I like pink.<br>
-  <em>That may be an understatement.</em>
+  I like pink.<br> <em>That may be an understatement.</em>
 </p>
 
 My nails are usually some kind of design involving pink. My coffee cup is pink. There is usually a hint of pink somewhere on my sneakers. I own an unreasonable number of jackets in various shades of pink—from hoodies to rain jackets to winter coats. My bedroom has its share of pink. My tennis racket is pink. My swimming goggles are pink. Even the glasses I should be wearing are pink, though I'm still choosing to believe my 20/20 vision never left me. My laptop screensaver? Also pink.
