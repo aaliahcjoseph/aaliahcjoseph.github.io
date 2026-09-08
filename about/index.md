@@ -19,6 +19,38 @@ classes: about-page
 
 </div>
 
+</div>
+
+<div class="three-cs">
+
+  <p>
+    There are three words I keep coming back to when I try to describe the way I think:
+    <strong>curious, creative, and calculated.</strong>
+  </p>
+
+  <p>
+    <strong>Curious</strong> is probably the easiest one. I ask a lot of questions. I want to know why something works, what changed, what doesn't fit, and what happens if I look at it from a different angle. Sometimes the question is useful. Sometimes it sends me down a rabbit hole I absolutely did not need to go down.
+  </p>
+
+  <p>
+    <strong>Creative</strong> isn't just about making things. It's also how I approach problems. I like experimenting, connecting things that don't obviously belong together, and finding another way in when the obvious answer isn't working.
+  </p>
+
+  <p>
+    And then there's <strong>calculated</strong>. Eventually, all of that curiosity and experimentation has to hold up. I want the evidence, I want to test the idea, and I want to know that the answer actually makes sense.
+  </p>
+
+  <p>
+    Of course, the process of getting from the question to the answer isn't always quite so tidy.
+  </p>
+
+  <p class="three-cs-chaos">
+    A little chaotic—in a good way.
+  </p>
+
+</div>
+
+
 <p class="about-statement">
   I notice patterns. But more than that, I notice when something doesn't fit the pattern.
 </p>
