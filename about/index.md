@@ -7,6 +7,34 @@ classes: about-page
 
 <div class="about-intro">
 
+<p class="three-cs-title">
+  Curious. Creative. Calculated.
+</p>
+
+<p>
+  These are three words I keep coming back to when I try to describe the way I think.
+</p>
+
+<p>
+  <strong>Curious</strong> is probably the easiest one. I ask a lot of questions. I want to know why something works, what changed, what doesn't fit, and what happens if I look at it from a different angle. Sometimes the question is useful. Sometimes it sends me down a rabbit hole I absolutely did not need to go down.
+</p>
+
+<p>
+  <strong>Creative</strong> isn't just about making things. It's also how I approach problems. I like experimenting, connecting things that don't obviously belong together, and finding another way in when the obvious answer isn't working.
+</p>
+
+<p>
+  And then there's <strong>calculated</strong>. Eventually, all of that curiosity and experimentation has to hold up. I want the evidence, I want to test the idea, and I want to know that the answer actually makes sense.
+</p>
+
+<p>
+  Of course, the process of getting from the question to the answer isn't always quite so tidy.
+</p>
+
+<p class="three-cs-chaos">
+  A little chaotic—in a good way.
+</p>
+
 <p class="about-opening">
   <span>I've never fit particularly neatly into one box.</span>
 </p>
@@ -16,37 +44,6 @@ classes: about-page
 <p>I also don't necessarily fit the image I grew up associating with the corporate world. For a long time, I had a pretty narrow idea of what "professional" was supposed to look like—and I didn't always see myself in it. As a woman of color whose hair is naturally curly, even something as simple as wearing my hair the way it grows became part of figuring out where I fit. It took me a while to become comfortable with my curls instead of feeling like they were something I needed to manage or make fit. These days, I'm much more interested in being good at what I do than trying to make myself look like someone else's idea of what that should look like.</p>
 
 <p>For a long time, I just thought I was a little odd. I grew up feeling like the outcast, and it wasn't until I learned about neurodivergence and was eventually diagnosed with ADHD that a lot of things about the way my brain works started to make sense.</p>
-
-</div>
-
-</div>
-
-<div class="three-cs">
-
-  <p>
-    There are three words I keep coming back to when I try to describe the way I think:
-    <strong>curious, creative, and calculated.</strong>
-  </p>
-
-  <p>
-    <strong>Curious</strong> is probably the easiest one. I ask a lot of questions. I want to know why something works, what changed, what doesn't fit, and what happens if I look at it from a different angle. Sometimes the question is useful. Sometimes it sends me down a rabbit hole I absolutely did not need to go down.
-  </p>
-
-  <p>
-    <strong>Creative</strong> isn't just about making things. It's also how I approach problems. I like experimenting, connecting things that don't obviously belong together, and finding another way in when the obvious answer isn't working.
-  </p>
-
-  <p>
-    And then there's <strong>calculated</strong>. Eventually, all of that curiosity and experimentation has to hold up. I want the evidence, I want to test the idea, and I want to know that the answer actually makes sense.
-  </p>
-
-  <p>
-    Of course, the process of getting from the question to the answer isn't always quite so tidy.
-  </p>
-
-  <p class="three-cs-chaos">
-    A little chaotic—in a good way.
-  </p>
 
 </div>
 
