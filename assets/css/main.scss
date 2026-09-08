@@ -604,7 +604,15 @@
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
-
+.about-page .three-cs-title {
+  display: inline-block;
+  margin: 0 0 1rem;
+  padding: 0.15em 0.35em;
+  background: rgba(255, 200, 221, 0.35);
+  color: #343a40;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
 .about-page .three-cs-chaos {
   margin: 2rem 0 3rem;
   padding: 0.5rem 0 0.5rem 1.25rem;
