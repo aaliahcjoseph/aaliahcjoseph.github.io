@@ -90,7 +90,7 @@ Tennis is the other exception. I learned to play as a child and picked it back u
 </h1>
 
 <p class="pink-opening">
-  Saying I like pink is an understatement.</em>
+  <em>Saying I like pink is an understatement.</em>
 </p>
 
 My nails are usually some kind of design involving pink. My coffee cup is pink. There is usually a hint of pink somewhere on my sneakers and I own an unreasonable number of jackets in various shades of pink, from hoodies to rain jackets to winter coats. My bedroom has its share of pink. My tennis racket is pink. My swimming goggles are pink. Even the glasses I should be wearing are pink, though I'm still choosing to believe my 20/20 vision never left me. My laptop screensaver? Also pink.
@@ -103,7 +103,7 @@ And I'm still waiting for Apple to make a pink iPhone Pro.
 
 # Dogs, Dolphins & Other Important Things
 
-I love dogs—all breeds, sizes and colours. No offence to the cat lovers; I'm just not a cat person. As it turns out, I learned this year that I'm also allergic to cats, so apparently my immune system has taken a side. Thankfully, I'm not allergic to dogs although, given the choice, I'd probably take the hives for the dog any day. I grew up with dogs, so they have pretty much always been part of my life. I don't have one of my own at the moment, which is one of the reasons volunteering with an animal rescue. It is a a way to keep dogs in my life while helping them find their forever homes.
+I love dogs—all breeds, sizes and colours. No offence to the cat lovers; I'm just not a cat person. As it turns out, I learned this year that I'm also allergic to cats, so apparently my immune system has taken a side. Thankfully, I'm not allergic to dogs although, given the choice, I'd probably take the hives for the dog any day. I grew up with dogs, so they have pretty much always been part of my life. I don't have one of my own at the moment, which is one of the reasons I volunteer with an animal rescue. It is a way to keep dogs in my life while helping them find their forever homes.
 
 Honestly, I probably like animals more than people. Some of my favourite experiences have involved them: feeding a giraffe, feeding a flamingo and my favourite, getting to meet a dolphin. His name was Romeo.
 
@@ -114,7 +114,7 @@ Animals also have a particular talent for making me laugh, especially when they'
 # A Caribbean Girl Who Likes the Cold
 Being born and raised in the Caribbean, my love of colder weather might be a little unexpected. But I genuinely enjoy the change that comes with the seasons, which is why fall is my favourite - I love the cooler temperatures and watching the trees change colour. And even after living in Canada for a while, fresh snow still looks magical to me.
 
-But apparently, my appreciation for the cold has its limits. If I'm going to the beach, I want warm Caribbean water. Some things I'm simply not willing to compromise on.
+Still, there are some things Canada hasn't managed to change about me. If I'm going to the beach, I want warm Caribbean water. Some things I'm simply not willing to compromise on.
 
 ---
 <h1>Why This Exists</h1>
