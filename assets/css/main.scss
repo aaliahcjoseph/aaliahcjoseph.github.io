@@ -466,10 +466,8 @@
 }
 
 .home-section {
-  min-height: 65vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  max-width: 850px;
+  margin-top: 5rem;
 }
 
 .home-section p {
