@@ -5,9 +5,11 @@ permalink: /side-quests/
 ---
 
 <div class="side-quest-coming-soon">
-  <p class="coming-soon-title">More questionable ideas are coming.</p>
+  <p class="coming-soon-title">
+    More questionable ideas are coming.
+  </p>
 
-  <p>
+  <p class="coming-soon-copy">
     This section will grow as curiosity gets the better of me.
   </p>
 </div>
