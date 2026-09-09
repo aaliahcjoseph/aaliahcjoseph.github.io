@@ -68,7 +68,7 @@ And when I learn something, I like sharing it. One of my favourite things is wat
 
 *There is, occasionally, life outside Excel.*
 
-I love reading and listening to audiobooks, particularly rom-coms and cozy murder mysteries involving female sleuths, eccentric sidekicks, and preferably an animal with a questionable amount of common sense. I'm also happiest when I'm making something. Paper flowers, Cricut projects, the occasional pipe-cleaner teddy bear—and especially coloring.
+I love reading and listening to audiobooks, particularly rom-coms and cozy murder mysteries involving female sleuths, eccentric sidekicks, and preferably an animal with a questionable amount of common sense. I'm also happiest when I'm making something. Paper flowers, Cricut projects, the occasional pipe-cleaner teddy bear, and especially coloring.
 
 My current obsession is Hachette Heroes color-by-number books, which I order from an online bookstore in France. Why am I ordering coloring books from France? Delivery and taxes are included, and thankfully you don't need to speak French to colour by number. I prefer colour-by-number books because regular coloring gives me far too much freedom; apparently I need someone to tell me what colour something should be so I can proceed to disagree with the exact shade they chose. Coloring is one of the few things that can quiet my brain for hours. Give me a coloring book, an audiobook in the background, and far too many acrylic paint markers to choose from, and I'm happy.
 <p>
@@ -76,12 +76,12 @@ My current obsession is Hachette Heroes color-by-number books, which I order fro
 </p>
 
 <p class="about-statement">
-  I'm slowly learning that not every imperfection needs to be fixed—which, admittedly, is still a work in progress.
+  I'm slowly learning that not every imperfection needs to be fixed which, admittedly, is still a work in progress.
 </p>
 
-When I do manage to put the coloring books down, I also love swimming. I learned as an adult and fell in love with it. It's probably the only physical activity I'd happily do regularly—if swimming didn't come with the unfortunate requirement of doing my entire curly hair routine afterward so I can go into the office the next day. Given the choice between a pool and a beach, though, I'm choosing the beach—as long as we're talking warm Caribbean seawater and not a Canadian beach.
+When I do manage to put the coloring books down, I also love swimming. I learned as an adult and fell in love with it. It's probably the only physical activity I'd happily do regularly, if swimming didn't come with the unfortunate requirement of doing my entire curly hair routine afterward so I can go into the office the next day. Given the choice between a pool and a beach, though, I'm choosing the beach, as long as we're talking warm Caribbean seawater and not a Canadian beach.
 
-Tennis is the other exception. I learned to play as a child and picked it back up again a few years ago. Apparently, my younger self retained more than I gave her credit for, because I still remembered what I was doing—and, as it turns out, I'm pretty good at it.
+Tennis is the other exception. I learned to play as a child and picked it back up again a few years ago. Apparently, my younger self retained more than I gave her credit for because I still remembered what I was doing. As it turns out, I'm pretty good at it.
 
 ---
 
@@ -103,7 +103,7 @@ And I'm still waiting for Apple to make a pink iPhone Pro.
 
 # Dogs, Dolphins & Other Important Things
 
-I love dogs—all breeds, sizes and colours. No offence to the cat lovers; I'm just not a cat person. As it turns out, I learned this year that I'm also allergic to cats, so apparently my immune system has taken a side. Thankfully, I'm not allergic to dogs although, given the choice, I'd probably take the hives for the dog any day. I grew up with dogs, so they have pretty much always been part of my life. I don't have one of my own at the moment, which is one of the reasons I volunteer with an animal rescue. It is a way to keep dogs in my life while helping them find their forever homes.
+I love dogs of all breeds, sizes and colours. No offence to the cat lovers; I'm just not a cat person. As it turns out, I learned this year that I'm also allergic to cats, so apparently my immune system has taken a side. Thankfully, I'm not allergic to dogs although, given the choice, I'd probably take the hives for the dog any day. I grew up with dogs, so they have pretty much always been part of my life. I don't have one of my own at the moment, which is one of the reasons I volunteer with an animal rescue. It is a way to keep dogs in my life while helping them find their forever homes.
 
 Honestly, I probably like animals more than people. Some of my favourite experiences have involved them: feeding a giraffe, feeding a flamingo and my favourite, getting to meet a dolphin. His name was Romeo.
 
@@ -114,7 +114,6 @@ Animals also have a particular talent for making me laugh, especially when they'
 # A Caribbean Girl Who Likes the Cold
 Being born and raised in the Caribbean, my love of colder weather might be a little unexpected. But I genuinely enjoy the change that comes with the seasons, which is why fall is my favourite - I love the cooler temperatures and watching the trees change colour. And even after living in Canada for a while, fresh snow still looks magical to me.
 
-Still, there are some things Canada hasn't managed to change about me. If I'm going to the beach, I want warm Caribbean water. Some things I'm simply not willing to compromise on.
 
 ---
 <h1>Why This Exists</h1>
@@ -141,7 +140,7 @@ Still, there are some things Canada hasn't managed to change about me. If I'm go
 
 I'm still figuring myself out. I can trust my analysis and still second-guess myself. I can spend hours trying to understand something and then hesitate when it's time to actually do something with it. I can be completely consumed by an idea one day and distracted by something entirely different the next. And despite knowing that perfect isn't always necessary, I still have a hard time leaving something alone when I know it could be better.
 
-Some of that I'm learning to work with, some of it I'm trying to change, and some of it might just be part of who I am. What I am getting better at is trusting myself a little more. I've learned that confidence and correctness aren't the same thing, and being unsure doesn't necessarily mean I'm wrong. I'm learning to trust the patterns I see, ask the extra question, and follow the evidence—even when I'm the only person looking in that direction.
+Some of that I'm learning to work with, some of it I'm trying to change, and some of it might just be part of who I am. What I am getting better at is trusting myself a little more. I've learned that confidence and correctness aren't the same thing, and being unsure doesn't necessarily mean I'm wrong. I'm learning to trust the patterns I see, ask the extra question, and follow the evidence, even when I'm the only person looking in that direction.
 
 I don't have all of it figured out yet, and I don't think I ever will. But I don't want to lose the part of me that keeps wondering, asking questions, and wanting to figure things out.
 
@@ -160,7 +159,7 @@ If I had to narrow down the things I want to hold onto along the way, I'd probab
   </div>
 
   <div class="value-item">
-    <p><strong>Willingness</strong> to try even when I'm unsure—to learn, to be wrong, to try again, and occasionally to follow a questionable idea just to see where it goes.</p>
+    <p><strong>Willingness</strong> to try even when I'm unsure;to learn, to be wrong, to try again, and occasionally to follow a questionable idea just to see where it goes.</p>
   </div>
 
 </div>
