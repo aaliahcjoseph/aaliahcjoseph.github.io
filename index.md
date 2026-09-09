@@ -61,5 +61,21 @@ permalink: /
     </p>
 
   </section>
+  
+  <section class="home-section">
+    <h2>About Me</h2>
+
+    <p>
+      I don't fit neatly into one box, and I've become okay with that. I've learned that it's easy to make assumptions about what someone can or can't do based on the box they happen to be in. I'd rather let what I create speak for itself.
+    </p>
+
+    <p>
+      Sometimes that becomes a project. Sometimes it becomes a side quest. Sometimes it has absolutely no productive outcome whatsoever.
+    </p>
+
+    <p class="home-link">
+      <a href="/about/">More About Me →</a>
+    </p>
+  </section>
 
 </div>
