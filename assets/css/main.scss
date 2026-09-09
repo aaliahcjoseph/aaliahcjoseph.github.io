@@ -518,7 +518,22 @@
 .home-section h2 {
   color: #343a40 !important;
 }
+.home-about-copy {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.home-highlight-line {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.home-link {
+  font-size: 1.1rem;
+}
 .project-detail .validation-result {
   width: 100% !important;
   max-width: 100% !important;
