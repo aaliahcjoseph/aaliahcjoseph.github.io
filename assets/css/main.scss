@@ -644,3 +644,27 @@
 .about-page .about-ending {
   text-align: left;
 }
+
+/* =========================================================
+   SIDE QUESTS — COMING SOON
+   ========================================================= */
+
+.side-quest-coming-soon {
+  max-width: 750px;
+  margin-top: 3.5rem;
+}
+
+.side-quest-coming-soon .coming-soon-title {
+  margin: 0 0 0.75rem;
+  color: #343a40;
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.side-quest-coming-soon .coming-soon-copy {
+  margin: 0;
+  color: #6c757d;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
