@@ -530,7 +530,14 @@
   margin-right: auto;
   text-align: center;
 }
-
+.home-highlight-block {
+  max-width: 800px;
+  margin: 2rem auto 1.5rem;
+  padding: 0.7rem 1rem;
+  background: rgba(255, 200, 221, 0.35);
+  text-align: center;
+  line-height: 1.6;
+}
 .home-link {
   font-size: 1.1rem;
 }
