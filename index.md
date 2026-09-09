@@ -14,16 +14,6 @@ permalink: /
       A little chaotic—in a good way.
     </p>
 
-    <p class="home-lead">
-      I build things because I want to understand things.
-    </p>
-
-    <p class="home-copy">
-      I pull things apart, follow the questions,
-      connect the unexpected pieces, and see where they lead.
-    </p>
-  </div>
-
   ---
 
   <section class="home-section">
