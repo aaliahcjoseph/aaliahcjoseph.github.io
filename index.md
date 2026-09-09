@@ -14,7 +14,6 @@ permalink: /
       A little chaotic—in a good way.
     </p>
 
-  ---
 
   <section class="home-section">
     <h2>About Me</h2>
