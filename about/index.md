@@ -36,14 +36,14 @@ classes: about-page
 </p>
 
 <p class="about-opening">
-  <span>I've never fit particularly neatly into one box.</span>
+  <span>I've never fit neatly into one box.</span>
 </p>
 
 <p>I'm introverted, easily distracted, stubborn when I want to figure something out, and almost always carrying around more ideas than I have time to finish.</p>
 
-<p>I also don't necessarily fit the image I grew up associating with the corporate world. For a long time, I had a pretty narrow idea of what "professional" was supposed to look like—and I didn't always see myself in it. As a woman of color whose hair is naturally curly, even something as simple as wearing my hair the way it grows became part of figuring out where I fit. It took me a while to become comfortable with my curls instead of feeling like they were something I needed to manage or make fit. These days, I'm much more interested in being good at what I do than trying to make myself look like someone else's idea of what that should look like.</p>
+<p>I also don't necessarily fit the image I grew up associating with the corporate world. For a long time, I had a pretty narrow idea of what "professional" was supposed to look like and I didn't always see myself in it. For instance, as a woman of colour with naturally curly hair, it took me a while to feel comfortable and confident with my curls in a professional environment, instead of feeling like they were something that I needed to manage or make fit. These days, I'm much more interested in being good at what I do than trying to make myself look like someone else's idea of what that should look like.</p>
 
-<p>For a long time, I just thought I was a little odd. I grew up feeling like the outcast, and it wasn't until I learned about neurodivergence and was eventually diagnosed with ADHD that a lot of things about the way my brain works started to make sense.</p>
+<p>For a long time, I just thought I was a little odd. I had always felt a little like the outcast without really understanding why. It wasn't until I learned about neurodivergence and was eventually diagnosed with ADHD that a lot of things about the way my brain works started to make sense.</p>
 
 </div>
 
@@ -56,7 +56,7 @@ Give me fragments of information and I want to figure out how they connect. It's
 
 That same curiosity follows me into my work.
 
-I like problems that don't already have an obvious answer. They also scare me a little—I don't want to get them wrong. Usually I start by writing down ideas, researching, trying something, testing it, realizing something doesn't quite work, adjusting it, and testing again.
+I like problems that don't already have an obvious answer. They also scare me a little because I don't want to get them wrong. Usually I start by writing down ideas, researching, trying something, testing it, realizing something doesn't quite work, adjusting it, and testing again.
 
 I rarely know exactly what the finished solution will look like when I start. I just keep working at it until the pieces begin to fit.
 
@@ -68,10 +68,9 @@ And when I learn something, I like sharing it. One of my favourite things is wat
 
 *There is, occasionally, life outside Excel.*
 
-I love reading and listening to audiobooks, particularly rom-coms and cozy murder mysteries involving female sleuths, eccentric sidekicks, and preferably an animal with a questionable amount of common sense. I also love making things. Paper flowers, Cricut projects, the occasional pipe-cleaner teddy bear—and especially coloring. 
+I love reading and listening to audiobooks, particularly rom-coms and cozy murder mysteries involving female sleuths, eccentric sidekicks, and preferably an animal with a questionable amount of common sense. I'm also happiest when I'm making something. Paper flowers, Cricut projects, the occasional pipe-cleaner teddy bear—and especially coloring.
 
-My current obsession is Hachette Heroes color-by-number books, which I order from an online bookstore in France. Why am I ordering coloring books from France? Delivery and taxes are included, and thankfully you don't need to speak French to colour by number. Regular coloring gives me far too much freedom; apparently I need someone to tell me what colour something should be so I can proceed to disagree with the exact shade they chose. Coloring is one of the few things that can quiet my brain for hours. Give me a coloring book, an audiobook in the background, and far too many acrylic paint markers to choose from, and I'm happy.
-
+My current obsession is Hachette Heroes color-by-number books, which I order from an online bookstore in France. Why am I ordering coloring books from France? Delivery and taxes are included, and thankfully you don't need to speak French to colour by number. I prefer colour-by-number books because regular coloring gives me far too much freedom; apparently I need someone to tell me what colour something should be so I can proceed to disagree with the exact shade they chose. Coloring is one of the few things that can quiet my brain for hours. Give me a coloring book, an audiobook in the background, and far too many acrylic paint markers to choose from, and I'm happy.
 <p>
   I'm a bit of a perfectionist about it too. The wrong shade will bother me. Cracked paint will bother me. A smudge will <em>definitely</em> bother me.
 </p>
@@ -80,9 +79,9 @@ My current obsession is Hachette Heroes color-by-number books, which I order fro
   I'm slowly learning that not every imperfection needs to be fixed—which, admittedly, is still a work in progress.
 </p>
 
-I learned to swim as an adult and fell in love with it. It's probably the only physical activity I'd happily do regularly—if swimming didn't come with the unfortunate requirement of doing my entire curly hair routine afterward so I can go into the office the next day. Given the choice between a pool and a beach, though, I'm choosing the beach—as long as we're talking warm Caribbean seawater and not a Canadian beach.
+When I do manage to put the coloring books down, I also love swimming. I learned as an adult and fell in love with it. It's probably the only physical activity I'd happily do regularly—if swimming didn't come with the unfortunate requirement of doing my entire curly hair routine afterward so I can go into the office the next day. Given the choice between a pool and a beach, though, I'm choosing the beach—as long as we're talking warm Caribbean seawater and not a Canadian beach.
 
-I learned to play tennis as a child and picked it back up again a few years ago. Apparently, my younger self retained more than I gave her credit for, because I still remembered what I was doing—and, as it turns out, I'm pretty good at it.
+Tennis is the other exception. I learned to play as a child and picked it back up again a few years ago. Apparently, my younger self retained more than I gave her credit for, because I still remembered what I was doing—and, as it turns out, I'm pretty good at it.
 
 ---
 
@@ -91,10 +90,10 @@ I learned to play tennis as a child and picked it back up again a few years ago.
 </h1>
 
 <p class="pink-opening">
-  I like pink. <em>That may be an understatement.</em>
+  Saying I like pink is an understatement.</em>
 </p>
 
-My nails are usually some kind of design involving pink. My coffee cup is pink. There is usually a hint of pink somewhere on my sneakers. I own an unreasonable number of jackets in various shades of pink—from hoodies to rain jackets to winter coats. My bedroom has its share of pink. My tennis racket is pink. My swimming goggles are pink. Even the glasses I should be wearing are pink, though I'm still choosing to believe my 20/20 vision never left me. My laptop screensaver? Also pink.
+My nails are usually some kind of design involving pink. My coffee cup is pink. There is usually a hint of pink somewhere on my sneakers and I own an unreasonable number of jackets in various shades of pink, from hoodies to rain jackets to winter coats. My bedroom has its share of pink. My tennis racket is pink. My swimming goggles are pink. Even the glasses I should be wearing are pink, though I'm still choosing to believe my 20/20 vision never left me. My laptop screensaver? Also pink.
 
 And I'm still waiting for Apple to make a pink iPhone Pro.
 
@@ -104,21 +103,18 @@ And I'm still waiting for Apple to make a pink iPhone Pro.
 
 # Dogs, Dolphins & Other Important Things
 
-I love dogs—all breeds, sizes and colours. No offence to the cat lovers; I'm just not a cat person. As it turns out, I learned this year that I'm also allergic to cats, so apparently my immune system has taken a side. Thankfully, I'm not allergic to dogs—although, given the choice, I'd probably take the hives for the dog any day.
+I love dogs—all breeds, sizes and colours. No offence to the cat lovers; I'm just not a cat person. As it turns out, I learned this year that I'm also allergic to cats, so apparently my immune system has taken a side. Thankfully, I'm not allergic to dogs although, given the choice, I'd probably take the hives for the dog any day. I grew up with dogs, so they have pretty much always been part of my life. I don't have one of my own at the moment, which is one of the reasons volunteering with an animal rescue. It is a a way to keep dogs in my life while helping them find their forever homes.
 
-I grew up with dogs and had a habit of bringing stray dogs home, even though my grandparents weren't always thrilled about my latest arrival. Fortunately for me, they also found it pretty hard to say no to me. Unfortunately, I don't have a dog of my own at the moment, so volunteering with animals has also been a way for me to keep them in my life.
-
-Honestly, I probably like animals more than people. Some of my favourite experiences have involved animals too: feeding a giraffe on my birthday in 2023, and—on another birthday trip to Curaçao—feeding a flamingo and finally getting to meet a dolphin after wanting to for years. His name was Romeo.
+Honestly, I probably like animals more than people. Some of my favourite experiences have involved them: feeding a giraffe, feeding a flamingo and my favourite, getting to meet a dolphin. His name was Romeo.
 
 Animals also have a particular talent for making me laugh, especially when they're doing something completely ridiculous.
 
 ---
 
 # A Caribbean Girl Who Likes the Cold
+Being born and raised in the Caribbean, my love of colder weather might be a little unexpected. But I genuinely enjoy the change that comes with the seasons, which is why fall is my favourite - I love the cooler temperatures and watching the trees change colour. And even after living in Canada for a while, fresh snow still looks magical to me.
 
-I was born and raised in the Caribbean, so my love of colder weather might be a little unexpected. My favourite season is fall—I love the cooler temperatures and watching the trees change colour. And even after living in Canada for a while, fresh snow still looks a little magical to me.
-
-But there are some things Canada hasn't managed to change about me. If I'm going to the beach, I want warm Caribbean water. Some things I'm simply not willing to compromise on.
+But apparently, my appreciation for the cold has its limits. If I'm going to the beach, I want warm Caribbean water. Some things I'm simply not willing to compromise on.
 
 ---
 <h1>Why This Exists</h1>
@@ -129,11 +125,7 @@ But there are some things Canada hasn't managed to change about me. If I'm going
 </p>
 
 <p>
-  A résumé can tell you what I've done, but it doesn't always show the questions I asked, the rabbit holes I followed, the things I tried that didn't work, or the way a small problem sometimes turns into something much bigger because I wanted to understand it properly. Some of the things here started because of work. Others started because I noticed something, wondered about it, and couldn't quite leave the question alone.
-</p>
-
-<p>
-  I've also learned that it's very easy for someone to decide what you can or can't do based on a job title, a list of qualifications, or a few lines on a résumé.
+  A résumé can tell you what I've done, but it doesn't always show the questions I asked, the rabbit holes I followed, the things I tried that didn't work, or the way a small problem sometimes turns into something much bigger because I wanted to understand it properly. Some of the things here started because of work. Others started because I noticed something, wondered about it, and couldn't quite leave the question alone. I've also learned that it's very easy for someone to decide what you can or can't do based on a job title, a list of qualifications, or a few lines on a résumé.
 </p>
 
 <p class="about-statement">
