@@ -112,7 +112,7 @@ Animals also have a particular talent for making me laugh, especially when they'
 ---
 
 # A Caribbean Girl Who Likes the Cold
-Being born and raised in the Caribbean, my love of colder weather might be a little unexpected. But I genuinely enjoy the change that comes with the seasons, which is why fall is my favourite - I love the cooler temperatures and watching the trees change colour. And even after living in Canada for a while, fresh snow still looks magical to me.
+Being born and raised in the Caribbean, my love of colder weather might be a little unexpected. But I genuinely enjoy the change that comes with the seasons, which is why fall is my favourite. I love the cooler temperatures and watching the trees change colour. And even after living in Canada for a while, fresh snow still looks magical to me.
 
 
 ---
@@ -151,7 +151,7 @@ If I had to narrow down the things I want to hold onto along the way, I'd probab
   <h2>Honesty. Curiosity. Willingness.</h2>
 
   <div class="value-item">
-    <p><strong>Honesty</strong> to be realistic about what I know, what I don't, and who I am—even when the answer isn't particularly polished.</p>
+    <p><strong>Honesty</strong> to be realistic about what I know, what I don't, and who I am, even when the answer isn't particularly polished.</p>
   </div>
 
   <div class="value-item">
@@ -159,7 +159,7 @@ If I had to narrow down the things I want to hold onto along the way, I'd probab
   </div>
 
   <div class="value-item">
-    <p><strong>Willingness</strong> to try even when I'm unsure;to learn, to be wrong, to try again, and occasionally to follow a questionable idea just to see where it goes.</p>
+    <p><strong>Willingness</strong> to try even when I'm unsure: to learn, to be wrong, to try again, and occasionally to follow a questionable idea just to see where it goes.</p>
   </div>
 
 </div>
