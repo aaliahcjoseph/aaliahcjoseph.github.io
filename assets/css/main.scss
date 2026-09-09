@@ -475,16 +475,7 @@
   max-width: 980px !important;
 }
 
-.home-highlight-block {
-  width: 82%;
-  max-width: 820px;
-  margin: 2rem auto 1.5rem;
-  padding: 0.8rem 1.2rem;
-  background: rgba(255, 200, 221, 0.35);
-  text-align: center;
-  line-height: 1.6;
-  box-sizing: border-box;
-}
+
 
 .home-link {
   margin-top: 30px;
@@ -521,16 +512,12 @@
     width: 92%;
   }
 }
-.home-highlight-block {
-  width: fit-content;
-  max-width: 820px;
+.home-about-graphic {
+  display: block;
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
   margin: 2rem auto 1.5rem;
-  padding: 0.15rem 0.35rem;
-  background: rgba(255, 200, 221, 0.35);
-  text-align: center;
-  line-height: 1.6;
-  box-decoration-break: clone;
-  -webkit-box-decoration-break: clone;
 }
 .project-detail .validation-result {
   width: 100% !important;
