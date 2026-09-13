@@ -15,7 +15,6 @@ This is where those things go. Things I've learned, things I've noticed, things 
 
 There is no real theme here. That's kind of the point.
 
----
 
 {% assign things = site.other-things | sort: "date" | reverse %}
 
