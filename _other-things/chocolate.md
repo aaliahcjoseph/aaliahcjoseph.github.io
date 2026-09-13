@@ -7,6 +7,7 @@ tags:
 layout: single
 excerpt: "My first entry here had to be about Chocolate."
 author_profile: false
+published: false
 ---
 
 Coming soon.
