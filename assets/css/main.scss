@@ -677,3 +677,80 @@
   font-size: 1.05rem;
   line-height: 1.7;
 }
+
+/* =========================================================
+   AND OTHER THINGS
+   ========================================================= */
+
+.other-things-feed {
+  margin-top: 3rem;
+}
+
+.other-thing-entry {
+  padding: 0 0 2.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.other-thing-entry h2 {
+  margin: 0 0 0.5rem;
+  border-bottom: none;
+  font-size: 1.5rem;
+}
+
+.other-thing-entry h2 a {
+  color: #343a40 !important;
+  text-decoration: none !important;
+}
+
+.other-thing-entry h2 a:hover,
+.other-thing-entry h2 a:focus {
+  color: #ffafcc !important;
+}
+
+.other-thing-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+
+  color: #6c757d;
+  font-size: 0.8rem;
+}
+
+.other-thing-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.other-thing-tags span {
+  padding: 0.2rem 0.55rem;
+
+  background: #f8f9fa;
+  border: 1px solid #ffc8dd;
+  border-radius: 999px;
+
+  color: #6c757d;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.other-thing-excerpt {
+  margin: 0 0 0.9rem;
+  color: #555b61;
+  line-height: 1.65;
+}
+
+.other-thing-read-more {
+  color: #343a40 !important;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.other-thing-read-more:hover,
+.other-thing-read-more:focus {
+  color: #ffafcc !important;
+}
