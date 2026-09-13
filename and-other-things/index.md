@@ -5,8 +5,6 @@ permalink: /and-other-things/
 author_profile: false
 ---
 
-# And Other Things
-
 **This is where all the other things go.**
 
 Not everything needs to become a project. Or a side quest. Or really anything at all.
