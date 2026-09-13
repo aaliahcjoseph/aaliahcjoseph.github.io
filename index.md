@@ -45,11 +45,7 @@ permalink: /
     <h2>Side Quests</h2>
 
     <p>
-      Not everything needs to become a serious project.
-    </p>
-
-    <p>
-      Some ideas start with <em>“I wonder if…”</em> and end with several hours of questionable decisions and surprisingly useful results.
+      Not everything needs to become a serious project. Some ideas start with <em>“I wonder if…”</em> and end with several hours of questionable decisions and surprisingly useful results.
     </p>
 
     <p class="home-link">
