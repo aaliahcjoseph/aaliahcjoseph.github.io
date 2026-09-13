@@ -14,3 +14,27 @@ Sometimes I learn something interesting. Sometimes I have a question I can't sto
 This is where those things go. Things I've learned, things I've noticed, things I found interesting, things that made me laugh, and whatever else has my attention at the moment.
 
 There is no real theme here. That's kind of the point.
+
+---
+
+{% assign things = site.other-things | sort: "date" | reverse %}
+
+{% for thing in things %}
+
+## [{{ thing.title }}]({{ thing.url | relative_url }})
+
+<small>{{ thing.date | date: "%B %-d, %Y" }}</small>
+
+{% if thing.tags %}
+{% for tag in thing.tags %}
+`{{ tag }}`
+{% endfor %}
+{% endif %}
+
+{{ thing.excerpt | strip_html | truncatewords: 35 }}
+
+[Read more →]({{ thing.url | relative_url }})
+
+---
+
+{% endfor %}
