@@ -19,22 +19,38 @@ There is no real theme here. That's kind of the point.
 
 {% assign things = site.other-things | sort: "date" | reverse %}
 
+<div class="other-things-feed">
+
 {% for thing in things %}
 
-## [{{ thing.title }}]({{ thing.url | relative_url }})
+<article class="other-thing-entry">
 
-<small>{{ thing.date | date: "%B %-d, %Y" }}</small>
+  <h2>
+    <a href="{{ thing.url | relative_url }}">{{ thing.title }}</a>
+  </h2>
 
-{% if thing.tags %}
-{% for tag in thing.tags %}
-`{{ tag }}`
+  <div class="other-thing-meta">
+    <span>{{ thing.date | date: "%B %-d, %Y" }}</span>
+
+    {% if thing.tags %}
+      <span class="other-thing-tags">
+        {% for tag in thing.tags %}
+          <span>{{ tag }}</span>
+        {% endfor %}
+      </span>
+    {% endif %}
+  </div>
+
+  <p class="other-thing-excerpt">
+    {{ thing.excerpt | strip_html | truncatewords: 35 }}
+  </p>
+
+  <a class="other-thing-read-more" href="{{ thing.url | relative_url }}">
+    Read more →
+  </a>
+
+</article>
+
 {% endfor %}
-{% endif %}
 
-{{ thing.excerpt | strip_html | truncatewords: 35 }}
-
-[Read more →]({{ thing.url | relative_url }})
-
----
-
-{% endfor %}
+</div>
