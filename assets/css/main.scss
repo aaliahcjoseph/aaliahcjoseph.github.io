@@ -682,20 +682,34 @@
    AND OTHER THINGS
    ========================================================= */
 
+/* Two-column editorial feed */
+
 .other-things-feed {
-  margin-top: 3rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 4rem;
+  row-gap: 0;
+
+  margin-top: 3.5rem;
 }
+
+/* Individual entry */
 
 .other-thing-entry {
-  padding: 0 0 2.5rem;
-  margin-bottom: 2.5rem;
-  border-bottom: 1px solid #e9ecef;
+  margin: 0;
+  padding: 2.25rem 0 2.5rem;
+
+  border-top: 1px solid #e9ecef;
 }
 
+/* Title */
+
 .other-thing-entry h2 {
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.75rem;
   border-bottom: none;
-  font-size: 1.5rem;
+
+  font-size: 1.45rem;
+  line-height: 1.3;
 }
 
 .other-thing-entry h2 a {
@@ -708,49 +722,82 @@
   color: #ffafcc !important;
 }
 
+/* Date + tags */
+
 .other-thing-meta {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.75rem;
+  gap: 0.4rem;
+
   margin-bottom: 1rem;
 
   color: #6c757d;
   font-size: 0.8rem;
+  line-height: 1.4;
 }
 
 .other-thing-tags {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 0.4rem;
 }
 
+.other-thing-tags::before {
+  content: "·";
+  color: #adb5bd;
+}
+
 .other-thing-tags span {
-  padding: 0.2rem 0.55rem;
+  padding: 0;
 
-  background: #f8f9fa;
-  border: 1px solid #ffc8dd;
-  border-radius: 999px;
+  background: none;
+  border: none;
+  border-radius: 0;
 
-  color: #6c757d;
-  font-size: 0.72rem;
+  color: #a53860;
+  font-size: 0.8rem;
   font-weight: 600;
 }
 
-.other-thing-excerpt {
-  margin: 0 0 0.9rem;
-  color: #555b61;
-  line-height: 1.65;
+.other-thing-tags span:not(:last-child)::after {
+  content: " ·";
+  margin-left: 0.4rem;
+  color: #adb5bd;
 }
+
+/* Excerpt */
+
+.other-thing-excerpt {
+  margin: 0 0 0.8rem;
+
+  color: #555b61;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Read more */
 
 .other-thing-read-more {
   color: #343a40 !important;
-  font-size: 0.9rem;
+
+  font-size: 0.85rem;
   font-weight: 600;
+
   text-decoration: none !important;
 }
 
 .other-thing-read-more:hover,
 .other-thing-read-more:focus {
   color: #ffafcc !important;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  .other-things-feed {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+  }
 }
