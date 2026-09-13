@@ -29,7 +29,7 @@ permalink: /
   <a href="/about/">More About Me →</a>
 </p>
 
-  <section class="home-section">
+  <section class="home-section home-section-projects">
     <h2>Projects</h2>
 
       <p>
