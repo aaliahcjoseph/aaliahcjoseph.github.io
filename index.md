@@ -32,9 +32,9 @@ permalink: /
   <section class="home-section">
     <h2>Projects</h2>
 
-    <p>
-      I like turning messy information into something people can actually use.
-    </p>
+      <p>
+    Sometimes curiosity turns into something useful. A problem to solve, a process to improve, or an idea that keeps growing until it becomes something much bigger than the question I started with.
+      </p>
 
     <p class="home-link">
       <a href="/projects/">Explore Projects →</a>
